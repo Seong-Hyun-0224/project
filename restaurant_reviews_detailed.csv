@@ -1,0 +1,1001 @@
+user,restaurant,rating,review
+user_65,Restaurant_F,3,The food here is mild and great. Loved it!
+user_177,Restaurant_D,3,"The atmosphere was nice, but the food was bitter and poor."
+user_47,Restaurant_I,5,"The atmosphere was nice, but the food was bitter and poor."
+user_187,Restaurant_C,4,Terrible experience. The food was mild and excellent.
+user_40,Restaurant_B,4,"Decent place. The food was mild, but the great service could be better."
+user_155,Restaurant_F,2,"The food was bitter, but the excellent ambiance made up for it."
+user_82,Restaurant_B,3,I didn't like the food here. It was too bland for my taste.
+user_2,Restaurant_I,4,"The atmosphere was nice, but the food was bland and poor."
+user_195,Restaurant_F,1,Terrible experience. The food was bland and poor.
+user_191,Restaurant_F,4,I didn't like the food here. It was too mild for my taste.
+user_112,Restaurant_I,4,"The food was bitter, but the average ambiance made up for it."
+user_143,Restaurant_G,3,Not coming back here. The food was spicy and the place was average.
+user_122,Restaurant_J,3,This place was amazing! The food was salty and average.
+user_174,Restaurant_I,4,This place was amazing! The food was mild and excellent.
+user_89,Restaurant_I,5,The food here is bitter and poor. Loved it!
+user_74,Restaurant_E,2,"Decent place. The food was bland, but the poor service could be better."
+user_169,Restaurant_B,1,Terrible experience. The food was mild and terrible.
+user_76,Restaurant_F,1,"The atmosphere was nice, but the food was spicy and excellent."
+user_170,Restaurant_A,4,This place was amazing! The food was bitter and poor.
+user_18,Restaurant_B,1,"Decent place. The food was mild, but the poor service could be better."
+user_185,Restaurant_A,1,Not coming back here. The food was bitter and the place was poor.
+user_93,Restaurant_E,4,This place was amazing! The food was bland and average.
+user_148,Restaurant_F,2,Not coming back here. The food was salty and the place was great.
+user_100,Restaurant_C,4,One of the best places I've been to! The food was bitter and great.
+user_23,Restaurant_D,1,Highly recommend this place! The food was mild and the service was terrible.
+user_84,Restaurant_J,3,This place was amazing! The food was bland and poor.
+user_103,Restaurant_E,2,Terrible experience. The food was mild and great.
+user_125,Restaurant_G,3,One of the best places I've been to! The food was bitter and excellent.
+user_115,Restaurant_A,2,Not coming back here. The food was bitter and the place was average.
+user_82,Restaurant_H,2,Terrible experience. The food was bitter and great.
+user_27,Restaurant_B,1,This place was amazing! The food was bland and excellent.
+user_98,Restaurant_A,4,This place was amazing! The food was spicy and poor.
+user_2,Restaurant_B,4,Not coming back here. The food was bland and the place was average.
+user_168,Restaurant_B,2,I didn't like the food here. It was too salty for my taste.
+user_107,Restaurant_A,2,One of the best places I've been to! The food was mild and terrible.
+user_139,Restaurant_A,1,The food here is bitter and great. Loved it!
+user_88,Restaurant_I,1,I didn't like the food here. It was too spicy for my taste.
+user_17,Restaurant_F,4,Not coming back here. The food was salty and the place was average.
+user_11,Restaurant_B,4,"The food was salty, but the average ambiance made up for it."
+user_53,Restaurant_F,3,"The atmosphere was nice, but the food was bland and great."
+user_36,Restaurant_J,1,One of the best places I've been to! The food was spicy and great.
+user_77,Restaurant_G,4,"The atmosphere was nice, but the food was bland and average."
+user_166,Restaurant_A,1,"The food was spicy, but the poor ambiance made up for it."
+user_177,Restaurant_I,5,Highly recommend this place! The food was bitter and the service was excellent.
+user_189,Restaurant_E,2,Terrible experience. The food was salty and average.
+user_106,Restaurant_A,2,Terrible experience. The food was mild and poor.
+user_88,Restaurant_G,4,This place was amazing! The food was mild and great.
+user_116,Restaurant_F,5,Highly recommend this place! The food was bitter and the service was excellent.
+user_8,Restaurant_H,5,This place was amazing! The food was bitter and poor.
+user_48,Restaurant_G,4,Not coming back here. The food was mild and the place was poor.
+user_153,Restaurant_I,5,"The atmosphere was nice, but the food was spicy and poor."
+user_120,Restaurant_E,5,This place was amazing! The food was bitter and average.
+user_164,Restaurant_F,5,I didn't like the food here. It was too spicy for my taste.
+user_31,Restaurant_D,5,Highly recommend this place! The food was salty and the service was great.
+user_64,Restaurant_D,3,This place was amazing! The food was mild and great.
+user_105,Restaurant_F,5,This place was amazing! The food was salty and average.
+user_174,Restaurant_C,4,Terrible experience. The food was bland and terrible.
+user_142,Restaurant_I,4,"Decent place. The food was bland, but the great service could be better."
+user_193,Restaurant_E,2,This place was amazing! The food was bitter and excellent.
+user_199,Restaurant_G,5,Highly recommend this place! The food was salty and the service was average.
+user_115,Restaurant_C,2,Highly recommend this place! The food was bitter and the service was poor.
+user_127,Restaurant_D,2,Highly recommend this place! The food was salty and the service was average.
+user_122,Restaurant_J,1,This place was amazing! The food was spicy and terrible.
+user_112,Restaurant_G,5,Not coming back here. The food was salty and the place was average.
+user_153,Restaurant_D,4,Not coming back here. The food was salty and the place was great.
+user_54,Restaurant_C,5,Not coming back here. The food was bland and the place was great.
+user_25,Restaurant_J,2,The food here is spicy and excellent. Loved it!
+user_119,Restaurant_A,3,Not coming back here. The food was bitter and the place was excellent.
+user_124,Restaurant_I,4,Highly recommend this place! The food was bland and the service was average.
+user_131,Restaurant_A,1,I didn't like the food here. It was too spicy for my taste.
+user_47,Restaurant_G,5,Terrible experience. The food was bitter and excellent.
+user_21,Restaurant_H,4,Terrible experience. The food was bland and terrible.
+user_171,Restaurant_F,2,Terrible experience. The food was mild and poor.
+user_194,Restaurant_G,1,One of the best places I've been to! The food was salty and terrible.
+user_164,Restaurant_J,5,One of the best places I've been to! The food was spicy and average.
+user_144,Restaurant_B,4,Not coming back here. The food was bland and the place was terrible.
+user_146,Restaurant_C,4,"Decent place. The food was salty, but the average service could be better."
+user_77,Restaurant_I,5,"Decent place. The food was bitter, but the poor service could be better."
+user_165,Restaurant_J,1,Terrible experience. The food was bitter and average.
+user_194,Restaurant_C,5,"The food was bland, but the average ambiance made up for it."
+user_70,Restaurant_C,5,Terrible experience. The food was mild and terrible.
+user_159,Restaurant_E,5,"Decent place. The food was salty, but the terrible service could be better."
+user_157,Restaurant_H,3,"The atmosphere was nice, but the food was salty and great."
+user_140,Restaurant_F,5,"The food was bitter, but the average ambiance made up for it."
+user_75,Restaurant_I,4,Not coming back here. The food was spicy and the place was excellent.
+user_88,Restaurant_J,2,I didn't like the food here. It was too bitter for my taste.
+user_158,Restaurant_H,4,"The atmosphere was nice, but the food was spicy and poor."
+user_16,Restaurant_F,3,Terrible experience. The food was bland and excellent.
+user_160,Restaurant_G,1,The food here is bitter and poor. Loved it!
+user_40,Restaurant_H,4,I didn't like the food here. It was too bland for my taste.
+user_69,Restaurant_I,2,Terrible experience. The food was bland and terrible.
+user_4,Restaurant_I,5,This place was amazing! The food was spicy and excellent.
+user_42,Restaurant_G,2,Terrible experience. The food was spicy and average.
+user_104,Restaurant_E,2,One of the best places I've been to! The food was bland and great.
+user_90,Restaurant_J,4,Highly recommend this place! The food was spicy and the service was excellent.
+user_191,Restaurant_I,5,Highly recommend this place! The food was bland and the service was average.
+user_90,Restaurant_I,4,Not coming back here. The food was salty and the place was average.
+user_11,Restaurant_J,1,"Decent place. The food was salty, but the excellent service could be better."
+user_42,Restaurant_B,4,"Decent place. The food was spicy, but the terrible service could be better."
+user_70,Restaurant_F,3,This place was amazing! The food was spicy and terrible.
+user_63,Restaurant_I,2,One of the best places I've been to! The food was bland and great.
+user_21,Restaurant_D,1,I didn't like the food here. It was too mild for my taste.
+user_21,Restaurant_I,1,"The food was mild, but the poor ambiance made up for it."
+user_145,Restaurant_H,3,This place was amazing! The food was bitter and great.
+user_186,Restaurant_G,4,"The atmosphere was nice, but the food was salty and great."
+user_20,Restaurant_F,3,"Decent place. The food was spicy, but the poor service could be better."
+user_75,Restaurant_F,3,Highly recommend this place! The food was salty and the service was average.
+user_38,Restaurant_D,3,"The atmosphere was nice, but the food was salty and excellent."
+user_200,Restaurant_F,2,Not coming back here. The food was spicy and the place was average.
+user_5,Restaurant_E,3,The food here is mild and poor. Loved it!
+user_31,Restaurant_F,3,Not coming back here. The food was salty and the place was terrible.
+user_7,Restaurant_A,5,I didn't like the food here. It was too salty for my taste.
+user_179,Restaurant_H,5,I didn't like the food here. It was too mild for my taste.
+user_25,Restaurant_A,5,"The food was bland, but the average ambiance made up for it."
+user_126,Restaurant_C,4,The food here is bitter and terrible. Loved it!
+user_7,Restaurant_G,3,One of the best places I've been to! The food was bland and terrible.
+user_64,Restaurant_G,5,Not coming back here. The food was mild and the place was average.
+user_88,Restaurant_G,5,"Decent place. The food was spicy, but the great service could be better."
+user_122,Restaurant_J,4,"The atmosphere was nice, but the food was spicy and average."
+user_100,Restaurant_G,5,Highly recommend this place! The food was bitter and the service was average.
+user_101,Restaurant_E,4,One of the best places I've been to! The food was salty and great.
+user_152,Restaurant_E,4,Highly recommend this place! The food was mild and the service was great.
+user_117,Restaurant_C,1,"The atmosphere was nice, but the food was bitter and excellent."
+user_12,Restaurant_E,2,Not coming back here. The food was salty and the place was poor.
+user_83,Restaurant_C,5,"The atmosphere was nice, but the food was mild and great."
+user_40,Restaurant_I,3,"Decent place. The food was mild, but the great service could be better."
+user_78,Restaurant_B,3,"Decent place. The food was salty, but the average service could be better."
+user_114,Restaurant_F,1,This place was amazing! The food was mild and terrible.
+user_161,Restaurant_H,3,One of the best places I've been to! The food was mild and excellent.
+user_85,Restaurant_G,5,Not coming back here. The food was mild and the place was great.
+user_52,Restaurant_G,2,This place was amazing! The food was salty and average.
+user_166,Restaurant_G,3,Not coming back here. The food was bitter and the place was great.
+user_129,Restaurant_H,1,This place was amazing! The food was mild and average.
+user_33,Restaurant_A,2,The food here is bland and excellent. Loved it!
+user_54,Restaurant_H,2,One of the best places I've been to! The food was bland and poor.
+user_173,Restaurant_J,3,This place was amazing! The food was spicy and poor.
+user_25,Restaurant_G,1,The food here is bitter and average. Loved it!
+user_116,Restaurant_F,4,The food here is mild and average. Loved it!
+user_79,Restaurant_B,1,"The food was bland, but the average ambiance made up for it."
+user_142,Restaurant_H,3,One of the best places I've been to! The food was bland and great.
+user_29,Restaurant_A,3,The food here is salty and average. Loved it!
+user_145,Restaurant_D,5,"The food was bitter, but the great ambiance made up for it."
+user_168,Restaurant_F,1,Highly recommend this place! The food was bland and the service was terrible.
+user_103,Restaurant_A,3,This place was amazing! The food was spicy and average.
+user_27,Restaurant_G,2,The food here is bitter and terrible. Loved it!
+user_24,Restaurant_E,2,Not coming back here. The food was bitter and the place was excellent.
+user_181,Restaurant_F,5,"The food was mild, but the excellent ambiance made up for it."
+user_151,Restaurant_J,3,I didn't like the food here. It was too spicy for my taste.
+user_173,Restaurant_F,4,One of the best places I've been to! The food was bitter and poor.
+user_27,Restaurant_F,1,This place was amazing! The food was salty and great.
+user_54,Restaurant_J,4,Not coming back here. The food was salty and the place was excellent.
+user_198,Restaurant_A,1,"Decent place. The food was bitter, but the excellent service could be better."
+user_186,Restaurant_I,2,The food here is mild and average. Loved it!
+user_166,Restaurant_E,5,Not coming back here. The food was mild and the place was terrible.
+user_21,Restaurant_H,2,One of the best places I've been to! The food was spicy and poor.
+user_142,Restaurant_F,2,One of the best places I've been to! The food was bitter and excellent.
+user_186,Restaurant_G,3,Terrible experience. The food was spicy and terrible.
+user_126,Restaurant_F,2,The food here is mild and average. Loved it!
+user_158,Restaurant_J,4,"The atmosphere was nice, but the food was spicy and great."
+user_78,Restaurant_I,5,One of the best places I've been to! The food was bland and great.
+user_66,Restaurant_A,2,One of the best places I've been to! The food was salty and excellent.
+user_29,Restaurant_E,3,Highly recommend this place! The food was bitter and the service was excellent.
+user_75,Restaurant_B,2,"The food was bitter, but the average ambiance made up for it."
+user_37,Restaurant_C,4,The food here is spicy and average. Loved it!
+user_77,Restaurant_H,1,Terrible experience. The food was bitter and terrible.
+user_178,Restaurant_G,1,"Decent place. The food was spicy, but the poor service could be better."
+user_49,Restaurant_J,4,Not coming back here. The food was bitter and the place was excellent.
+user_1,Restaurant_F,5,One of the best places I've been to! The food was bitter and poor.
+user_42,Restaurant_I,1,One of the best places I've been to! The food was mild and poor.
+user_86,Restaurant_E,4,"The atmosphere was nice, but the food was salty and great."
+user_170,Restaurant_B,2,The food here is bland and terrible. Loved it!
+user_117,Restaurant_J,2,The food here is bland and terrible. Loved it!
+user_144,Restaurant_B,5,This place was amazing! The food was mild and great.
+user_46,Restaurant_G,2,"Decent place. The food was spicy, but the terrible service could be better."
+user_21,Restaurant_D,2,"The atmosphere was nice, but the food was bland and great."
+user_96,Restaurant_I,4,I didn't like the food here. It was too bland for my taste.
+user_41,Restaurant_I,4,"The atmosphere was nice, but the food was salty and excellent."
+user_89,Restaurant_E,1,The food here is mild and poor. Loved it!
+user_49,Restaurant_H,1,"Decent place. The food was mild, but the great service could be better."
+user_156,Restaurant_E,3,The food here is salty and terrible. Loved it!
+user_148,Restaurant_E,2,One of the best places I've been to! The food was bland and great.
+user_122,Restaurant_J,3,The food here is salty and great. Loved it!
+user_92,Restaurant_F,2,Terrible experience. The food was spicy and average.
+user_11,Restaurant_J,4,"Decent place. The food was bland, but the great service could be better."
+user_61,Restaurant_D,1,"Decent place. The food was salty, but the poor service could be better."
+user_194,Restaurant_J,1,Highly recommend this place! The food was spicy and the service was terrible.
+user_165,Restaurant_G,1,This place was amazing! The food was spicy and great.
+user_85,Restaurant_D,2,I didn't like the food here. It was too bitter for my taste.
+user_152,Restaurant_I,2,Highly recommend this place! The food was mild and the service was great.
+user_102,Restaurant_F,5,"The food was mild, but the poor ambiance made up for it."
+user_182,Restaurant_H,2,Terrible experience. The food was mild and average.
+user_49,Restaurant_C,3,I didn't like the food here. It was too mild for my taste.
+user_80,Restaurant_C,3,The food here is bitter and average. Loved it!
+user_113,Restaurant_E,3,"Decent place. The food was mild, but the great service could be better."
+user_64,Restaurant_I,5,"The atmosphere was nice, but the food was spicy and great."
+user_159,Restaurant_G,2,One of the best places I've been to! The food was mild and excellent.
+user_142,Restaurant_C,4,"Decent place. The food was spicy, but the great service could be better."
+user_87,Restaurant_I,5,Not coming back here. The food was spicy and the place was poor.
+user_117,Restaurant_H,5,One of the best places I've been to! The food was bland and great.
+user_45,Restaurant_F,4,Not coming back here. The food was mild and the place was average.
+user_180,Restaurant_H,4,This place was amazing! The food was bitter and terrible.
+user_54,Restaurant_I,3,I didn't like the food here. It was too salty for my taste.
+user_180,Restaurant_I,5,I didn't like the food here. It was too salty for my taste.
+user_108,Restaurant_E,3,"Decent place. The food was bitter, but the excellent service could be better."
+user_44,Restaurant_F,1,One of the best places I've been to! The food was bland and great.
+user_46,Restaurant_G,4,One of the best places I've been to! The food was bitter and excellent.
+user_164,Restaurant_H,1,I didn't like the food here. It was too mild for my taste.
+user_88,Restaurant_F,4,The food here is bland and average. Loved it!
+user_103,Restaurant_F,3,"The food was bland, but the great ambiance made up for it."
+user_62,Restaurant_F,3,Terrible experience. The food was bitter and great.
+user_121,Restaurant_G,4,Highly recommend this place! The food was spicy and the service was excellent.
+user_198,Restaurant_B,4,"The atmosphere was nice, but the food was bitter and terrible."
+user_114,Restaurant_F,4,Highly recommend this place! The food was bland and the service was average.
+user_5,Restaurant_H,4,"Decent place. The food was bland, but the average service could be better."
+user_121,Restaurant_J,5,The food here is salty and terrible. Loved it!
+user_41,Restaurant_H,5,Terrible experience. The food was salty and terrible.
+user_137,Restaurant_E,3,This place was amazing! The food was spicy and terrible.
+user_28,Restaurant_C,1,One of the best places I've been to! The food was bitter and great.
+user_2,Restaurant_A,2,Not coming back here. The food was salty and the place was great.
+user_26,Restaurant_D,3,"The atmosphere was nice, but the food was spicy and terrible."
+user_24,Restaurant_I,5,Highly recommend this place! The food was bland and the service was terrible.
+user_16,Restaurant_B,2,"The food was spicy, but the great ambiance made up for it."
+user_153,Restaurant_F,2,"The food was bland, but the excellent ambiance made up for it."
+user_163,Restaurant_B,1,The food here is salty and poor. Loved it!
+user_52,Restaurant_I,2,"The atmosphere was nice, but the food was spicy and poor."
+user_159,Restaurant_B,2,"Decent place. The food was bland, but the terrible service could be better."
+user_182,Restaurant_F,1,Highly recommend this place! The food was spicy and the service was excellent.
+user_94,Restaurant_G,2,"Decent place. The food was bland, but the poor service could be better."
+user_72,Restaurant_G,4,"The food was bland, but the great ambiance made up for it."
+user_47,Restaurant_D,5,Highly recommend this place! The food was bitter and the service was great.
+user_153,Restaurant_A,2,"Decent place. The food was mild, but the terrible service could be better."
+user_168,Restaurant_J,2,The food here is bland and terrible. Loved it!
+user_127,Restaurant_F,5,"The atmosphere was nice, but the food was salty and excellent."
+user_10,Restaurant_C,1,"Decent place. The food was mild, but the excellent service could be better."
+user_159,Restaurant_J,3,Not coming back here. The food was spicy and the place was poor.
+user_25,Restaurant_A,1,"The food was mild, but the average ambiance made up for it."
+user_88,Restaurant_H,2,I didn't like the food here. It was too spicy for my taste.
+user_138,Restaurant_F,1,One of the best places I've been to! The food was salty and great.
+user_52,Restaurant_I,4,Not coming back here. The food was bland and the place was average.
+user_152,Restaurant_D,1,I didn't like the food here. It was too bland for my taste.
+user_132,Restaurant_G,2,"The food was spicy, but the excellent ambiance made up for it."
+user_50,Restaurant_I,4,Highly recommend this place! The food was salty and the service was average.
+user_104,Restaurant_D,5,One of the best places I've been to! The food was mild and average.
+user_42,Restaurant_E,3,One of the best places I've been to! The food was bitter and great.
+user_58,Restaurant_A,2,One of the best places I've been to! The food was spicy and poor.
+user_37,Restaurant_F,3,Highly recommend this place! The food was bitter and the service was terrible.
+user_88,Restaurant_H,2,I didn't like the food here. It was too salty for my taste.
+user_104,Restaurant_D,5,Not coming back here. The food was mild and the place was great.
+user_17,Restaurant_H,5,Highly recommend this place! The food was bland and the service was poor.
+user_32,Restaurant_F,2,The food here is bland and great. Loved it!
+user_44,Restaurant_F,4,Not coming back here. The food was mild and the place was terrible.
+user_103,Restaurant_G,5,The food here is salty and poor. Loved it!
+user_74,Restaurant_J,2,"Decent place. The food was spicy, but the terrible service could be better."
+user_147,Restaurant_E,3,Terrible experience. The food was spicy and great.
+user_169,Restaurant_B,2,This place was amazing! The food was salty and terrible.
+user_70,Restaurant_D,2,"Decent place. The food was mild, but the poor service could be better."
+user_194,Restaurant_E,2,One of the best places I've been to! The food was bitter and great.
+user_186,Restaurant_H,1,"The atmosphere was nice, but the food was spicy and great."
+user_73,Restaurant_B,2,"The atmosphere was nice, but the food was spicy and poor."
+user_179,Restaurant_E,1,"The food was bland, but the terrible ambiance made up for it."
+user_159,Restaurant_F,5,One of the best places I've been to! The food was spicy and average.
+user_186,Restaurant_B,2,This place was amazing! The food was bitter and great.
+user_21,Restaurant_G,2,I didn't like the food here. It was too bitter for my taste.
+user_72,Restaurant_H,4,Terrible experience. The food was salty and terrible.
+user_178,Restaurant_C,3,Terrible experience. The food was mild and average.
+user_30,Restaurant_F,5,This place was amazing! The food was salty and terrible.
+user_121,Restaurant_D,5,Highly recommend this place! The food was mild and the service was excellent.
+user_72,Restaurant_E,4,"Decent place. The food was bitter, but the average service could be better."
+user_7,Restaurant_J,4,I didn't like the food here. It was too salty for my taste.
+user_22,Restaurant_J,2,Terrible experience. The food was bitter and average.
+user_100,Restaurant_A,5,This place was amazing! The food was bland and average.
+user_52,Restaurant_B,5,"The food was bitter, but the average ambiance made up for it."
+user_154,Restaurant_D,1,The food here is spicy and average. Loved it!
+user_40,Restaurant_I,3,Not coming back here. The food was bitter and the place was terrible.
+user_59,Restaurant_G,5,"The food was bitter, but the average ambiance made up for it."
+user_193,Restaurant_C,5,Not coming back here. The food was spicy and the place was terrible.
+user_7,Restaurant_H,1,This place was amazing! The food was bland and terrible.
+user_82,Restaurant_F,1,One of the best places I've been to! The food was bitter and great.
+user_58,Restaurant_D,2,The food here is salty and average. Loved it!
+user_138,Restaurant_I,1,Not coming back here. The food was bland and the place was average.
+user_155,Restaurant_B,2,"The atmosphere was nice, but the food was bland and poor."
+user_165,Restaurant_I,3,The food here is salty and excellent. Loved it!
+user_127,Restaurant_J,1,"Decent place. The food was mild, but the average service could be better."
+user_127,Restaurant_I,1,Highly recommend this place! The food was mild and the service was average.
+user_50,Restaurant_E,2,"Decent place. The food was bland, but the terrible service could be better."
+user_132,Restaurant_D,2,"The atmosphere was nice, but the food was bland and great."
+user_8,Restaurant_A,2,"The food was spicy, but the poor ambiance made up for it."
+user_143,Restaurant_H,4,The food here is mild and great. Loved it!
+user_193,Restaurant_B,1,Terrible experience. The food was salty and excellent.
+user_62,Restaurant_J,3,Not coming back here. The food was salty and the place was average.
+user_5,Restaurant_I,1,The food here is mild and average. Loved it!
+user_39,Restaurant_F,3,This place was amazing! The food was spicy and terrible.
+user_171,Restaurant_I,2,"The atmosphere was nice, but the food was mild and average."
+user_122,Restaurant_I,3,The food here is salty and terrible. Loved it!
+user_104,Restaurant_D,1,"The food was bitter, but the excellent ambiance made up for it."
+user_135,Restaurant_J,3,Not coming back here. The food was bitter and the place was average.
+user_141,Restaurant_G,2,I didn't like the food here. It was too salty for my taste.
+user_29,Restaurant_H,3,"The food was spicy, but the average ambiance made up for it."
+user_29,Restaurant_C,3,This place was amazing! The food was salty and excellent.
+user_123,Restaurant_H,5,The food here is spicy and poor. Loved it!
+user_36,Restaurant_A,2,"Decent place. The food was spicy, but the great service could be better."
+user_31,Restaurant_A,3,Not coming back here. The food was bitter and the place was poor.
+user_21,Restaurant_B,4,Highly recommend this place! The food was bland and the service was average.
+user_34,Restaurant_J,3,The food here is salty and average. Loved it!
+user_48,Restaurant_C,1,This place was amazing! The food was salty and great.
+user_40,Restaurant_C,3,"Decent place. The food was salty, but the average service could be better."
+user_21,Restaurant_G,4,One of the best places I've been to! The food was salty and terrible.
+user_63,Restaurant_E,1,Not coming back here. The food was mild and the place was excellent.
+user_137,Restaurant_F,1,The food here is spicy and terrible. Loved it!
+user_103,Restaurant_H,4,One of the best places I've been to! The food was salty and excellent.
+user_177,Restaurant_F,1,"The atmosphere was nice, but the food was salty and great."
+user_172,Restaurant_G,5,The food here is salty and excellent. Loved it!
+user_105,Restaurant_B,5,I didn't like the food here. It was too bitter for my taste.
+user_117,Restaurant_G,2,Terrible experience. The food was mild and poor.
+user_54,Restaurant_J,1,Terrible experience. The food was mild and great.
+user_123,Restaurant_J,3,This place was amazing! The food was salty and poor.
+user_13,Restaurant_J,3,Highly recommend this place! The food was spicy and the service was great.
+user_2,Restaurant_E,1,One of the best places I've been to! The food was bitter and terrible.
+user_28,Restaurant_B,2,Highly recommend this place! The food was bitter and the service was great.
+user_8,Restaurant_J,5,Not coming back here. The food was salty and the place was average.
+user_61,Restaurant_G,2,Not coming back here. The food was spicy and the place was terrible.
+user_143,Restaurant_H,1,I didn't like the food here. It was too salty for my taste.
+user_1,Restaurant_E,5,Terrible experience. The food was salty and excellent.
+user_48,Restaurant_F,1,This place was amazing! The food was mild and great.
+user_40,Restaurant_D,3,Not coming back here. The food was spicy and the place was average.
+user_59,Restaurant_H,5,The food here is bland and average. Loved it!
+user_129,Restaurant_D,5,Not coming back here. The food was salty and the place was poor.
+user_5,Restaurant_J,1,I didn't like the food here. It was too bland for my taste.
+user_99,Restaurant_I,5,"The food was salty, but the poor ambiance made up for it."
+user_142,Restaurant_B,3,"Decent place. The food was spicy, but the great service could be better."
+user_90,Restaurant_I,2,Highly recommend this place! The food was bland and the service was excellent.
+user_20,Restaurant_F,3,One of the best places I've been to! The food was spicy and average.
+user_141,Restaurant_B,4,Terrible experience. The food was mild and poor.
+user_121,Restaurant_J,3,"The atmosphere was nice, but the food was salty and great."
+user_179,Restaurant_E,5,Not coming back here. The food was salty and the place was poor.
+user_146,Restaurant_A,1,The food here is bland and great. Loved it!
+user_174,Restaurant_B,2,One of the best places I've been to! The food was bland and great.
+user_28,Restaurant_B,2,Highly recommend this place! The food was bitter and the service was great.
+user_78,Restaurant_I,1,"The atmosphere was nice, but the food was bland and poor."
+user_199,Restaurant_B,3,"The atmosphere was nice, but the food was salty and great."
+user_156,Restaurant_I,2,"Decent place. The food was salty, but the average service could be better."
+user_38,Restaurant_F,4,Not coming back here. The food was spicy and the place was great.
+user_36,Restaurant_F,5,The food here is bitter and poor. Loved it!
+user_99,Restaurant_I,4,I didn't like the food here. It was too bitter for my taste.
+user_184,Restaurant_A,4,"The food was salty, but the excellent ambiance made up for it."
+user_189,Restaurant_J,5,Highly recommend this place! The food was bland and the service was excellent.
+user_8,Restaurant_F,2,Terrible experience. The food was bitter and terrible.
+user_57,Restaurant_H,1,Not coming back here. The food was bland and the place was poor.
+user_38,Restaurant_J,3,"The food was spicy, but the average ambiance made up for it."
+user_170,Restaurant_D,3,I didn't like the food here. It was too mild for my taste.
+user_184,Restaurant_D,5,Not coming back here. The food was salty and the place was poor.
+user_25,Restaurant_F,3,"Decent place. The food was bland, but the average service could be better."
+user_26,Restaurant_F,1,"Decent place. The food was spicy, but the terrible service could be better."
+user_121,Restaurant_F,5,"Decent place. The food was mild, but the excellent service could be better."
+user_187,Restaurant_D,4,Not coming back here. The food was spicy and the place was average.
+user_138,Restaurant_H,1,"Decent place. The food was bitter, but the average service could be better."
+user_117,Restaurant_G,5,Terrible experience. The food was mild and average.
+user_162,Restaurant_G,4,I didn't like the food here. It was too bitter for my taste.
+user_52,Restaurant_D,1,Terrible experience. The food was salty and great.
+user_40,Restaurant_F,1,Terrible experience. The food was bland and poor.
+user_185,Restaurant_A,4,I didn't like the food here. It was too mild for my taste.
+user_98,Restaurant_G,3,"Decent place. The food was bland, but the average service could be better."
+user_144,Restaurant_A,2,Not coming back here. The food was mild and the place was average.
+user_20,Restaurant_G,1,Highly recommend this place! The food was bitter and the service was terrible.
+user_59,Restaurant_G,3,"Decent place. The food was mild, but the poor service could be better."
+user_115,Restaurant_E,3,Terrible experience. The food was bitter and terrible.
+user_171,Restaurant_I,5,Terrible experience. The food was bland and average.
+user_128,Restaurant_I,2,Terrible experience. The food was salty and terrible.
+user_8,Restaurant_H,1,One of the best places I've been to! The food was salty and average.
+user_122,Restaurant_E,2,"Decent place. The food was bitter, but the terrible service could be better."
+user_144,Restaurant_I,4,"The atmosphere was nice, but the food was mild and terrible."
+user_191,Restaurant_C,3,The food here is bitter and poor. Loved it!
+user_105,Restaurant_C,3,The food here is spicy and excellent. Loved it!
+user_194,Restaurant_J,4,"The atmosphere was nice, but the food was bland and terrible."
+user_168,Restaurant_I,4,Not coming back here. The food was salty and the place was poor.
+user_129,Restaurant_H,3,The food here is bitter and terrible. Loved it!
+user_5,Restaurant_D,5,Highly recommend this place! The food was spicy and the service was poor.
+user_196,Restaurant_G,5,"The atmosphere was nice, but the food was mild and average."
+user_145,Restaurant_H,3,One of the best places I've been to! The food was salty and average.
+user_173,Restaurant_G,5,I didn't like the food here. It was too spicy for my taste.
+user_170,Restaurant_H,3,One of the best places I've been to! The food was spicy and average.
+user_106,Restaurant_G,2,"Decent place. The food was mild, but the terrible service could be better."
+user_79,Restaurant_B,3,"Decent place. The food was bland, but the average service could be better."
+user_157,Restaurant_D,2,"Decent place. The food was bland, but the poor service could be better."
+user_174,Restaurant_D,5,Not coming back here. The food was bitter and the place was terrible.
+user_109,Restaurant_F,1,"Decent place. The food was mild, but the great service could be better."
+user_96,Restaurant_E,4,"The food was salty, but the average ambiance made up for it."
+user_200,Restaurant_D,3,One of the best places I've been to! The food was salty and terrible.
+user_120,Restaurant_B,2,"The food was mild, but the great ambiance made up for it."
+user_167,Restaurant_F,1,The food here is bitter and terrible. Loved it!
+user_39,Restaurant_D,4,One of the best places I've been to! The food was mild and terrible.
+user_19,Restaurant_J,3,"Decent place. The food was spicy, but the great service could be better."
+user_62,Restaurant_H,1,One of the best places I've been to! The food was bitter and great.
+user_93,Restaurant_D,3,"The food was bitter, but the great ambiance made up for it."
+user_179,Restaurant_F,5,Terrible experience. The food was spicy and excellent.
+user_187,Restaurant_G,2,"The food was spicy, but the great ambiance made up for it."
+user_199,Restaurant_H,1,Highly recommend this place! The food was bitter and the service was poor.
+user_129,Restaurant_F,1,Terrible experience. The food was bitter and terrible.
+user_200,Restaurant_G,3,"The atmosphere was nice, but the food was bland and terrible."
+user_167,Restaurant_H,2,"Decent place. The food was mild, but the great service could be better."
+user_180,Restaurant_C,5,Terrible experience. The food was spicy and terrible.
+user_172,Restaurant_J,2,I didn't like the food here. It was too bitter for my taste.
+user_63,Restaurant_I,4,"The atmosphere was nice, but the food was mild and average."
+user_5,Restaurant_A,5,"Decent place. The food was bland, but the great service could be better."
+user_72,Restaurant_I,4,Terrible experience. The food was bitter and poor.
+user_183,Restaurant_A,1,Highly recommend this place! The food was mild and the service was terrible.
+user_142,Restaurant_C,1,This place was amazing! The food was mild and excellent.
+user_64,Restaurant_I,3,One of the best places I've been to! The food was bitter and great.
+user_68,Restaurant_C,4,Not coming back here. The food was salty and the place was great.
+user_117,Restaurant_F,2,"The atmosphere was nice, but the food was bland and terrible."
+user_155,Restaurant_G,5,The food here is salty and average. Loved it!
+user_194,Restaurant_D,1,I didn't like the food here. It was too bland for my taste.
+user_63,Restaurant_G,4,"The food was spicy, but the average ambiance made up for it."
+user_43,Restaurant_A,3,Highly recommend this place! The food was bland and the service was poor.
+user_60,Restaurant_C,3,I didn't like the food here. It was too spicy for my taste.
+user_196,Restaurant_E,2,Terrible experience. The food was bland and poor.
+user_177,Restaurant_C,3,"The atmosphere was nice, but the food was mild and great."
+user_170,Restaurant_H,3,The food here is salty and poor. Loved it!
+user_30,Restaurant_D,1,One of the best places I've been to! The food was salty and average.
+user_146,Restaurant_C,5,Terrible experience. The food was bland and poor.
+user_121,Restaurant_F,4,Highly recommend this place! The food was salty and the service was average.
+user_142,Restaurant_C,2,This place was amazing! The food was mild and great.
+user_195,Restaurant_I,1,One of the best places I've been to! The food was salty and terrible.
+user_64,Restaurant_E,5,One of the best places I've been to! The food was bitter and poor.
+user_199,Restaurant_B,4,I didn't like the food here. It was too bland for my taste.
+user_29,Restaurant_G,5,"The food was spicy, but the great ambiance made up for it."
+user_85,Restaurant_A,4,"The food was spicy, but the terrible ambiance made up for it."
+user_165,Restaurant_I,3,This place was amazing! The food was bitter and terrible.
+user_55,Restaurant_B,3,"The atmosphere was nice, but the food was mild and great."
+user_164,Restaurant_C,1,"The food was spicy, but the excellent ambiance made up for it."
+user_149,Restaurant_F,4,"The food was salty, but the terrible ambiance made up for it."
+user_37,Restaurant_E,4,The food here is bitter and terrible. Loved it!
+user_161,Restaurant_E,5,The food here is spicy and terrible. Loved it!
+user_64,Restaurant_D,4,The food here is salty and great. Loved it!
+user_62,Restaurant_C,2,I didn't like the food here. It was too salty for my taste.
+user_113,Restaurant_I,5,Highly recommend this place! The food was salty and the service was poor.
+user_168,Restaurant_J,4,"The atmosphere was nice, but the food was salty and poor."
+user_24,Restaurant_H,2,Not coming back here. The food was bland and the place was great.
+user_183,Restaurant_G,1,Not coming back here. The food was mild and the place was excellent.
+user_107,Restaurant_C,4,This place was amazing! The food was salty and excellent.
+user_139,Restaurant_J,4,Not coming back here. The food was spicy and the place was poor.
+user_122,Restaurant_I,2,"The atmosphere was nice, but the food was bland and average."
+user_104,Restaurant_D,3,Terrible experience. The food was salty and poor.
+user_86,Restaurant_G,3,"The atmosphere was nice, but the food was spicy and great."
+user_89,Restaurant_C,5,Not coming back here. The food was spicy and the place was great.
+user_111,Restaurant_C,1,Highly recommend this place! The food was salty and the service was poor.
+user_141,Restaurant_H,5,Terrible experience. The food was salty and poor.
+user_109,Restaurant_J,3,"The atmosphere was nice, but the food was mild and excellent."
+user_164,Restaurant_H,5,This place was amazing! The food was mild and average.
+user_191,Restaurant_H,1,Highly recommend this place! The food was bitter and the service was poor.
+user_177,Restaurant_H,3,Not coming back here. The food was mild and the place was average.
+user_65,Restaurant_F,2,Terrible experience. The food was bitter and excellent.
+user_57,Restaurant_H,3,"The food was mild, but the terrible ambiance made up for it."
+user_130,Restaurant_D,5,"The atmosphere was nice, but the food was bland and terrible."
+user_175,Restaurant_B,1,"The food was mild, but the poor ambiance made up for it."
+user_133,Restaurant_I,3,The food here is bitter and terrible. Loved it!
+user_61,Restaurant_I,2,Not coming back here. The food was mild and the place was average.
+user_135,Restaurant_G,1,Terrible experience. The food was spicy and great.
+user_141,Restaurant_D,3,"The food was salty, but the terrible ambiance made up for it."
+user_42,Restaurant_H,3,This place was amazing! The food was bland and excellent.
+user_103,Restaurant_D,4,"The food was salty, but the great ambiance made up for it."
+user_83,Restaurant_A,3,Terrible experience. The food was bland and poor.
+user_22,Restaurant_I,1,Not coming back here. The food was spicy and the place was great.
+user_166,Restaurant_I,4,Highly recommend this place! The food was spicy and the service was average.
+user_142,Restaurant_D,3,"The atmosphere was nice, but the food was mild and excellent."
+user_159,Restaurant_E,5,I didn't like the food here. It was too bitter for my taste.
+user_36,Restaurant_H,4,This place was amazing! The food was bitter and poor.
+user_58,Restaurant_D,5,"The food was mild, but the great ambiance made up for it."
+user_77,Restaurant_D,5,"The food was salty, but the excellent ambiance made up for it."
+user_158,Restaurant_G,5,The food here is bitter and great. Loved it!
+user_105,Restaurant_C,2,"The food was spicy, but the average ambiance made up for it."
+user_191,Restaurant_G,4,"Decent place. The food was bland, but the great service could be better."
+user_189,Restaurant_C,3,Highly recommend this place! The food was mild and the service was average.
+user_57,Restaurant_A,4,Highly recommend this place! The food was spicy and the service was terrible.
+user_67,Restaurant_E,2,I didn't like the food here. It was too salty for my taste.
+user_191,Restaurant_G,4,Highly recommend this place! The food was spicy and the service was great.
+user_126,Restaurant_C,3,This place was amazing! The food was salty and poor.
+user_79,Restaurant_C,2,The food here is mild and excellent. Loved it!
+user_151,Restaurant_G,4,Terrible experience. The food was bitter and excellent.
+user_191,Restaurant_A,5,One of the best places I've been to! The food was mild and poor.
+user_122,Restaurant_D,4,One of the best places I've been to! The food was bitter and average.
+user_26,Restaurant_A,2,One of the best places I've been to! The food was bitter and average.
+user_173,Restaurant_G,1,Not coming back here. The food was spicy and the place was terrible.
+user_165,Restaurant_H,5,Not coming back here. The food was bland and the place was excellent.
+user_16,Restaurant_H,5,The food here is spicy and great. Loved it!
+user_107,Restaurant_H,2,I didn't like the food here. It was too bitter for my taste.
+user_41,Restaurant_A,3,"The food was bitter, but the average ambiance made up for it."
+user_24,Restaurant_B,3,The food here is salty and average. Loved it!
+user_49,Restaurant_B,4,"The food was spicy, but the excellent ambiance made up for it."
+user_129,Restaurant_C,3,One of the best places I've been to! The food was mild and excellent.
+user_129,Restaurant_E,4,Terrible experience. The food was bland and terrible.
+user_188,Restaurant_B,2,"The atmosphere was nice, but the food was spicy and poor."
+user_42,Restaurant_C,3,"The food was mild, but the great ambiance made up for it."
+user_76,Restaurant_G,4,"The atmosphere was nice, but the food was bland and poor."
+user_130,Restaurant_A,5,Not coming back here. The food was salty and the place was average.
+user_142,Restaurant_E,1,"Decent place. The food was bland, but the excellent service could be better."
+user_33,Restaurant_B,1,I didn't like the food here. It was too spicy for my taste.
+user_67,Restaurant_G,4,"The food was bland, but the great ambiance made up for it."
+user_12,Restaurant_H,1,This place was amazing! The food was salty and average.
+user_121,Restaurant_B,1,"Decent place. The food was bitter, but the average service could be better."
+user_34,Restaurant_G,1,Terrible experience. The food was bitter and poor.
+user_179,Restaurant_H,5,Terrible experience. The food was salty and terrible.
+user_99,Restaurant_E,3,Not coming back here. The food was mild and the place was excellent.
+user_76,Restaurant_D,4,This place was amazing! The food was spicy and excellent.
+user_147,Restaurant_A,1,Highly recommend this place! The food was spicy and the service was great.
+user_90,Restaurant_J,4,The food here is bitter and great. Loved it!
+user_195,Restaurant_B,3,One of the best places I've been to! The food was salty and excellent.
+user_81,Restaurant_C,2,Not coming back here. The food was bitter and the place was poor.
+user_156,Restaurant_J,2,"Decent place. The food was spicy, but the great service could be better."
+user_88,Restaurant_I,5,Terrible experience. The food was spicy and poor.
+user_200,Restaurant_C,4,One of the best places I've been to! The food was salty and poor.
+user_195,Restaurant_E,3,This place was amazing! The food was salty and great.
+user_48,Restaurant_D,2,One of the best places I've been to! The food was bitter and excellent.
+user_148,Restaurant_I,3,Highly recommend this place! The food was salty and the service was terrible.
+user_107,Restaurant_I,3,Terrible experience. The food was mild and poor.
+user_36,Restaurant_J,1,Highly recommend this place! The food was bitter and the service was great.
+user_167,Restaurant_C,2,"The food was mild, but the poor ambiance made up for it."
+user_79,Restaurant_C,4,One of the best places I've been to! The food was spicy and average.
+user_159,Restaurant_C,2,Not coming back here. The food was mild and the place was average.
+user_109,Restaurant_G,5,Highly recommend this place! The food was mild and the service was great.
+user_90,Restaurant_B,3,One of the best places I've been to! The food was bland and great.
+user_122,Restaurant_F,2,One of the best places I've been to! The food was salty and excellent.
+user_120,Restaurant_J,3,Not coming back here. The food was bland and the place was poor.
+user_78,Restaurant_E,5,"The food was salty, but the terrible ambiance made up for it."
+user_153,Restaurant_B,2,"The atmosphere was nice, but the food was spicy and poor."
+user_41,Restaurant_B,2,"Decent place. The food was bitter, but the average service could be better."
+user_19,Restaurant_J,5,"The food was bland, but the average ambiance made up for it."
+user_109,Restaurant_E,1,The food here is spicy and excellent. Loved it!
+user_183,Restaurant_I,2,One of the best places I've been to! The food was bland and poor.
+user_42,Restaurant_A,5,Terrible experience. The food was salty and average.
+user_64,Restaurant_E,4,Not coming back here. The food was spicy and the place was poor.
+user_71,Restaurant_H,3,"Decent place. The food was bland, but the terrible service could be better."
+user_173,Restaurant_C,1,Not coming back here. The food was spicy and the place was average.
+user_93,Restaurant_E,5,"The food was bitter, but the terrible ambiance made up for it."
+user_101,Restaurant_H,5,The food here is salty and great. Loved it!
+user_22,Restaurant_I,1,One of the best places I've been to! The food was spicy and average.
+user_103,Restaurant_I,5,"The atmosphere was nice, but the food was salty and terrible."
+user_58,Restaurant_C,3,I didn't like the food here. It was too bland for my taste.
+user_28,Restaurant_E,5,Highly recommend this place! The food was mild and the service was terrible.
+user_40,Restaurant_C,1,One of the best places I've been to! The food was bland and average.
+user_169,Restaurant_C,2,I didn't like the food here. It was too mild for my taste.
+user_37,Restaurant_C,3,"The atmosphere was nice, but the food was salty and average."
+user_41,Restaurant_E,5,"Decent place. The food was spicy, but the average service could be better."
+user_185,Restaurant_G,1,One of the best places I've been to! The food was salty and terrible.
+user_92,Restaurant_J,1,I didn't like the food here. It was too salty for my taste.
+user_10,Restaurant_G,2,This place was amazing! The food was salty and poor.
+user_175,Restaurant_G,4,The food here is salty and poor. Loved it!
+user_2,Restaurant_J,2,This place was amazing! The food was bland and poor.
+user_47,Restaurant_B,2,"The atmosphere was nice, but the food was bitter and average."
+user_34,Restaurant_F,3,Not coming back here. The food was spicy and the place was terrible.
+user_39,Restaurant_J,5,Highly recommend this place! The food was mild and the service was average.
+user_182,Restaurant_I,3,"The food was salty, but the poor ambiance made up for it."
+user_162,Restaurant_E,4,"Decent place. The food was spicy, but the poor service could be better."
+user_154,Restaurant_E,2,"The food was spicy, but the excellent ambiance made up for it."
+user_95,Restaurant_E,3,One of the best places I've been to! The food was salty and terrible.
+user_126,Restaurant_C,4,"The atmosphere was nice, but the food was salty and average."
+user_12,Restaurant_D,5,The food here is spicy and average. Loved it!
+user_71,Restaurant_H,1,"The food was mild, but the average ambiance made up for it."
+user_34,Restaurant_C,5,"Decent place. The food was salty, but the terrible service could be better."
+user_76,Restaurant_E,2,"The atmosphere was nice, but the food was spicy and terrible."
+user_55,Restaurant_B,5,"Decent place. The food was spicy, but the excellent service could be better."
+user_134,Restaurant_E,2,I didn't like the food here. It was too mild for my taste.
+user_58,Restaurant_F,2,Not coming back here. The food was salty and the place was terrible.
+user_30,Restaurant_A,1,This place was amazing! The food was salty and terrible.
+user_46,Restaurant_A,2,The food here is bitter and average. Loved it!
+user_15,Restaurant_J,4,Terrible experience. The food was bland and excellent.
+user_196,Restaurant_J,2,This place was amazing! The food was mild and great.
+user_14,Restaurant_E,5,Highly recommend this place! The food was spicy and the service was terrible.
+user_35,Restaurant_H,1,"The atmosphere was nice, but the food was mild and poor."
+user_59,Restaurant_H,4,This place was amazing! The food was bitter and average.
+user_143,Restaurant_B,3,One of the best places I've been to! The food was salty and great.
+user_65,Restaurant_B,1,One of the best places I've been to! The food was mild and great.
+user_154,Restaurant_A,4,One of the best places I've been to! The food was bland and great.
+user_120,Restaurant_B,2,Terrible experience. The food was bitter and great.
+user_168,Restaurant_D,5,Not coming back here. The food was mild and the place was average.
+user_137,Restaurant_D,5,One of the best places I've been to! The food was salty and excellent.
+user_197,Restaurant_C,4,I didn't like the food here. It was too bitter for my taste.
+user_32,Restaurant_J,1,The food here is salty and poor. Loved it!
+user_68,Restaurant_B,1,This place was amazing! The food was mild and great.
+user_27,Restaurant_A,3,"The food was spicy, but the great ambiance made up for it."
+user_162,Restaurant_A,5,"The food was bitter, but the great ambiance made up for it."
+user_195,Restaurant_A,3,"The food was mild, but the great ambiance made up for it."
+user_20,Restaurant_B,3,"The atmosphere was nice, but the food was salty and terrible."
+user_70,Restaurant_J,5,"The atmosphere was nice, but the food was bitter and great."
+user_83,Restaurant_C,1,This place was amazing! The food was bitter and average.
+user_145,Restaurant_D,1,I didn't like the food here. It was too mild for my taste.
+user_98,Restaurant_D,1,This place was amazing! The food was salty and average.
+user_74,Restaurant_B,5,"The food was bitter, but the excellent ambiance made up for it."
+user_122,Restaurant_C,5,Terrible experience. The food was spicy and average.
+user_89,Restaurant_B,5,"The food was spicy, but the terrible ambiance made up for it."
+user_70,Restaurant_H,4,Highly recommend this place! The food was bitter and the service was terrible.
+user_5,Restaurant_I,3,Not coming back here. The food was mild and the place was terrible.
+user_95,Restaurant_B,5,"The food was bland, but the average ambiance made up for it."
+user_60,Restaurant_C,2,"The food was spicy, but the excellent ambiance made up for it."
+user_71,Restaurant_B,2,Highly recommend this place! The food was bland and the service was excellent.
+user_22,Restaurant_I,2,"The food was bland, but the poor ambiance made up for it."
+user_167,Restaurant_D,3,"The atmosphere was nice, but the food was bland and excellent."
+user_29,Restaurant_J,2,Highly recommend this place! The food was bland and the service was average.
+user_133,Restaurant_F,1,Not coming back here. The food was bland and the place was average.
+user_26,Restaurant_I,4,The food here is mild and great. Loved it!
+user_6,Restaurant_C,5,Highly recommend this place! The food was bland and the service was excellent.
+user_5,Restaurant_H,1,Highly recommend this place! The food was bland and the service was average.
+user_132,Restaurant_G,4,Highly recommend this place! The food was bland and the service was excellent.
+user_152,Restaurant_H,3,"The atmosphere was nice, but the food was mild and average."
+user_40,Restaurant_I,1,The food here is spicy and excellent. Loved it!
+user_154,Restaurant_C,3,"The atmosphere was nice, but the food was mild and great."
+user_171,Restaurant_I,1,"Decent place. The food was mild, but the great service could be better."
+user_181,Restaurant_H,4,"Decent place. The food was mild, but the average service could be better."
+user_107,Restaurant_A,4,I didn't like the food here. It was too bitter for my taste.
+user_4,Restaurant_I,3,"The atmosphere was nice, but the food was salty and great."
+user_60,Restaurant_B,5,"The atmosphere was nice, but the food was bitter and poor."
+user_49,Restaurant_E,4,Highly recommend this place! The food was mild and the service was average.
+user_165,Restaurant_J,2,"The atmosphere was nice, but the food was mild and great."
+user_92,Restaurant_J,3,This place was amazing! The food was spicy and average.
+user_33,Restaurant_A,5,The food here is spicy and terrible. Loved it!
+user_37,Restaurant_E,1,Not coming back here. The food was mild and the place was excellent.
+user_131,Restaurant_H,4,Not coming back here. The food was mild and the place was terrible.
+user_76,Restaurant_G,2,I didn't like the food here. It was too spicy for my taste.
+user_198,Restaurant_F,1,"The food was mild, but the excellent ambiance made up for it."
+user_107,Restaurant_F,3,I didn't like the food here. It was too spicy for my taste.
+user_143,Restaurant_J,5,This place was amazing! The food was salty and terrible.
+user_34,Restaurant_J,2,Not coming back here. The food was mild and the place was great.
+user_27,Restaurant_D,3,Not coming back here. The food was salty and the place was average.
+user_196,Restaurant_J,2,"Decent place. The food was salty, but the average service could be better."
+user_134,Restaurant_G,4,Terrible experience. The food was salty and excellent.
+user_175,Restaurant_D,5,The food here is spicy and poor. Loved it!
+user_125,Restaurant_B,5,"Decent place. The food was mild, but the terrible service could be better."
+user_44,Restaurant_C,4,The food here is spicy and excellent. Loved it!
+user_34,Restaurant_F,2,Highly recommend this place! The food was salty and the service was average.
+user_150,Restaurant_B,3,Not coming back here. The food was bitter and the place was poor.
+user_75,Restaurant_D,5,Highly recommend this place! The food was bland and the service was average.
+user_160,Restaurant_A,1,"The atmosphere was nice, but the food was mild and terrible."
+user_192,Restaurant_J,4,This place was amazing! The food was mild and terrible.
+user_75,Restaurant_D,3,Highly recommend this place! The food was salty and the service was great.
+user_96,Restaurant_A,3,Highly recommend this place! The food was mild and the service was great.
+user_113,Restaurant_E,3,Terrible experience. The food was salty and average.
+user_101,Restaurant_J,4,This place was amazing! The food was bitter and average.
+user_131,Restaurant_D,5,"The food was bland, but the great ambiance made up for it."
+user_185,Restaurant_I,1,One of the best places I've been to! The food was mild and terrible.
+user_36,Restaurant_E,5,"The atmosphere was nice, but the food was bitter and great."
+user_53,Restaurant_E,1,One of the best places I've been to! The food was bitter and poor.
+user_170,Restaurant_A,4,Terrible experience. The food was bland and terrible.
+user_27,Restaurant_B,3,This place was amazing! The food was bland and excellent.
+user_30,Restaurant_F,3,Not coming back here. The food was bland and the place was excellent.
+user_66,Restaurant_A,1,The food here is salty and terrible. Loved it!
+user_196,Restaurant_C,5,"The food was mild, but the poor ambiance made up for it."
+user_91,Restaurant_G,2,"The atmosphere was nice, but the food was mild and average."
+user_1,Restaurant_D,3,Terrible experience. The food was mild and poor.
+user_197,Restaurant_C,4,I didn't like the food here. It was too bitter for my taste.
+user_115,Restaurant_J,1,The food here is bland and average. Loved it!
+user_82,Restaurant_E,4,I didn't like the food here. It was too bitter for my taste.
+user_91,Restaurant_J,1,Terrible experience. The food was salty and average.
+user_38,Restaurant_F,4,Highly recommend this place! The food was bland and the service was poor.
+user_164,Restaurant_C,2,I didn't like the food here. It was too salty for my taste.
+user_186,Restaurant_I,1,The food here is spicy and average. Loved it!
+user_172,Restaurant_A,5,"The atmosphere was nice, but the food was mild and poor."
+user_89,Restaurant_E,2,"The atmosphere was nice, but the food was mild and excellent."
+user_86,Restaurant_H,1,"The food was spicy, but the terrible ambiance made up for it."
+user_16,Restaurant_A,2,One of the best places I've been to! The food was spicy and average.
+user_56,Restaurant_A,3,I didn't like the food here. It was too spicy for my taste.
+user_49,Restaurant_H,1,"The food was bitter, but the poor ambiance made up for it."
+user_121,Restaurant_H,2,This place was amazing! The food was bland and poor.
+user_110,Restaurant_F,2,One of the best places I've been to! The food was spicy and great.
+user_123,Restaurant_G,3,Terrible experience. The food was spicy and excellent.
+user_62,Restaurant_D,5,I didn't like the food here. It was too bland for my taste.
+user_106,Restaurant_A,1,Not coming back here. The food was salty and the place was average.
+user_180,Restaurant_E,3,One of the best places I've been to! The food was bland and terrible.
+user_144,Restaurant_D,5,I didn't like the food here. It was too mild for my taste.
+user_118,Restaurant_A,3,"The atmosphere was nice, but the food was spicy and terrible."
+user_131,Restaurant_I,4,The food here is spicy and average. Loved it!
+user_163,Restaurant_G,5,One of the best places I've been to! The food was salty and excellent.
+user_157,Restaurant_C,2,"The atmosphere was nice, but the food was mild and poor."
+user_22,Restaurant_C,3,"The atmosphere was nice, but the food was bitter and excellent."
+user_58,Restaurant_E,2,"The food was mild, but the poor ambiance made up for it."
+user_73,Restaurant_B,5,This place was amazing! The food was bitter and terrible.
+user_131,Restaurant_F,2,Highly recommend this place! The food was bland and the service was terrible.
+user_35,Restaurant_A,3,"The food was salty, but the terrible ambiance made up for it."
+user_54,Restaurant_B,1,"The atmosphere was nice, but the food was salty and average."
+user_191,Restaurant_J,3,One of the best places I've been to! The food was mild and great.
+user_182,Restaurant_I,4,Not coming back here. The food was salty and the place was excellent.
+user_33,Restaurant_F,1,Not coming back here. The food was mild and the place was poor.
+user_48,Restaurant_A,2,Not coming back here. The food was bitter and the place was excellent.
+user_132,Restaurant_A,2,I didn't like the food here. It was too mild for my taste.
+user_69,Restaurant_H,5,"The food was mild, but the terrible ambiance made up for it."
+user_74,Restaurant_A,5,Terrible experience. The food was salty and poor.
+user_133,Restaurant_C,5,Terrible experience. The food was bland and poor.
+user_1,Restaurant_F,4,One of the best places I've been to! The food was bitter and great.
+user_144,Restaurant_I,3,Highly recommend this place! The food was salty and the service was average.
+user_141,Restaurant_G,4,I didn't like the food here. It was too bitter for my taste.
+user_23,Restaurant_I,3,One of the best places I've been to! The food was bitter and excellent.
+user_57,Restaurant_G,3,"The atmosphere was nice, but the food was bitter and excellent."
+user_197,Restaurant_H,4,One of the best places I've been to! The food was spicy and great.
+user_2,Restaurant_B,2,One of the best places I've been to! The food was spicy and average.
+user_195,Restaurant_D,1,The food here is bland and poor. Loved it!
+user_23,Restaurant_B,3,The food here is mild and average. Loved it!
+user_34,Restaurant_I,1,"Decent place. The food was bland, but the poor service could be better."
+user_135,Restaurant_I,5,"The atmosphere was nice, but the food was bland and great."
+user_145,Restaurant_E,1,One of the best places I've been to! The food was salty and great.
+user_140,Restaurant_H,1,"The atmosphere was nice, but the food was spicy and great."
+user_177,Restaurant_C,5,Terrible experience. The food was mild and average.
+user_54,Restaurant_D,5,Highly recommend this place! The food was salty and the service was average.
+user_153,Restaurant_F,2,"The atmosphere was nice, but the food was salty and average."
+user_170,Restaurant_E,5,One of the best places I've been to! The food was bitter and average.
+user_65,Restaurant_C,1,Terrible experience. The food was bland and terrible.
+user_27,Restaurant_I,3,This place was amazing! The food was spicy and excellent.
+user_87,Restaurant_C,1,This place was amazing! The food was spicy and great.
+user_59,Restaurant_H,2,"The atmosphere was nice, but the food was bitter and excellent."
+user_89,Restaurant_A,2,The food here is spicy and great. Loved it!
+user_51,Restaurant_B,2,I didn't like the food here. It was too mild for my taste.
+user_174,Restaurant_G,5,This place was amazing! The food was mild and excellent.
+user_188,Restaurant_C,4,This place was amazing! The food was salty and poor.
+user_145,Restaurant_F,4,Not coming back here. The food was spicy and the place was poor.
+user_37,Restaurant_I,5,"The food was salty, but the excellent ambiance made up for it."
+user_48,Restaurant_E,3,Highly recommend this place! The food was spicy and the service was terrible.
+user_123,Restaurant_I,2,This place was amazing! The food was spicy and excellent.
+user_131,Restaurant_B,1,"The atmosphere was nice, but the food was bitter and terrible."
+user_195,Restaurant_J,4,Not coming back here. The food was salty and the place was excellent.
+user_197,Restaurant_B,2,I didn't like the food here. It was too mild for my taste.
+user_190,Restaurant_D,5,Not coming back here. The food was salty and the place was poor.
+user_151,Restaurant_B,1,The food here is bland and great. Loved it!
+user_171,Restaurant_A,5,Not coming back here. The food was mild and the place was terrible.
+user_193,Restaurant_C,5,Not coming back here. The food was bland and the place was great.
+user_180,Restaurant_C,2,"The atmosphere was nice, but the food was bitter and great."
+user_16,Restaurant_G,2,One of the best places I've been to! The food was bitter and great.
+user_25,Restaurant_I,5,I didn't like the food here. It was too bland for my taste.
+user_93,Restaurant_J,4,The food here is mild and terrible. Loved it!
+user_20,Restaurant_J,1,Highly recommend this place! The food was spicy and the service was great.
+user_109,Restaurant_H,3,Not coming back here. The food was salty and the place was excellent.
+user_2,Restaurant_I,1,The food here is bitter and poor. Loved it!
+user_143,Restaurant_A,5,Not coming back here. The food was spicy and the place was poor.
+user_79,Restaurant_D,1,"Decent place. The food was spicy, but the excellent service could be better."
+user_103,Restaurant_C,3,I didn't like the food here. It was too mild for my taste.
+user_87,Restaurant_H,3,"The food was mild, but the poor ambiance made up for it."
+user_96,Restaurant_H,3,The food here is mild and great. Loved it!
+user_138,Restaurant_G,5,"Decent place. The food was mild, but the poor service could be better."
+user_99,Restaurant_D,4,"The atmosphere was nice, but the food was mild and poor."
+user_120,Restaurant_J,5,One of the best places I've been to! The food was spicy and excellent.
+user_22,Restaurant_E,1,"The atmosphere was nice, but the food was bitter and poor."
+user_3,Restaurant_F,5,"The atmosphere was nice, but the food was bland and terrible."
+user_171,Restaurant_D,5,The food here is bland and great. Loved it!
+user_85,Restaurant_D,5,One of the best places I've been to! The food was bland and average.
+user_39,Restaurant_C,5,I didn't like the food here. It was too bitter for my taste.
+user_48,Restaurant_A,1,This place was amazing! The food was bitter and terrible.
+user_115,Restaurant_C,2,One of the best places I've been to! The food was bitter and great.
+user_86,Restaurant_A,2,One of the best places I've been to! The food was mild and average.
+user_99,Restaurant_I,3,I didn't like the food here. It was too spicy for my taste.
+user_134,Restaurant_E,4,Terrible experience. The food was bland and excellent.
+user_198,Restaurant_A,3,"Decent place. The food was mild, but the excellent service could be better."
+user_127,Restaurant_C,4,I didn't like the food here. It was too salty for my taste.
+user_164,Restaurant_H,4,Not coming back here. The food was spicy and the place was average.
+user_93,Restaurant_B,2,One of the best places I've been to! The food was bitter and great.
+user_78,Restaurant_I,2,This place was amazing! The food was spicy and excellent.
+user_197,Restaurant_A,5,"Decent place. The food was salty, but the great service could be better."
+user_165,Restaurant_H,4,One of the best places I've been to! The food was mild and average.
+user_162,Restaurant_J,5,This place was amazing! The food was bland and average.
+user_24,Restaurant_J,4,The food here is bland and terrible. Loved it!
+user_187,Restaurant_C,4,Highly recommend this place! The food was bitter and the service was terrible.
+user_42,Restaurant_B,3,The food here is salty and terrible. Loved it!
+user_191,Restaurant_I,1,Highly recommend this place! The food was salty and the service was terrible.
+user_24,Restaurant_C,3,"The food was bitter, but the terrible ambiance made up for it."
+user_13,Restaurant_G,4,"The atmosphere was nice, but the food was bland and great."
+user_53,Restaurant_D,3,Terrible experience. The food was mild and excellent.
+user_105,Restaurant_A,5,I didn't like the food here. It was too bitter for my taste.
+user_175,Restaurant_F,1,I didn't like the food here. It was too salty for my taste.
+user_166,Restaurant_C,1,Terrible experience. The food was bland and excellent.
+user_156,Restaurant_G,5,The food here is salty and excellent. Loved it!
+user_195,Restaurant_I,1,"The atmosphere was nice, but the food was bitter and average."
+user_80,Restaurant_A,4,The food here is mild and excellent. Loved it!
+user_127,Restaurant_E,4,"The atmosphere was nice, but the food was bland and excellent."
+user_38,Restaurant_E,4,The food here is salty and poor. Loved it!
+user_85,Restaurant_D,4,"The food was mild, but the poor ambiance made up for it."
+user_12,Restaurant_D,3,Not coming back here. The food was spicy and the place was great.
+user_2,Restaurant_D,3,I didn't like the food here. It was too bitter for my taste.
+user_148,Restaurant_H,4,Not coming back here. The food was spicy and the place was poor.
+user_180,Restaurant_F,4,One of the best places I've been to! The food was mild and average.
+user_122,Restaurant_B,2,"The food was bland, but the average ambiance made up for it."
+user_162,Restaurant_H,5,Not coming back here. The food was salty and the place was great.
+user_101,Restaurant_H,2,Not coming back here. The food was salty and the place was poor.
+user_59,Restaurant_G,1,The food here is bland and poor. Loved it!
+user_99,Restaurant_G,2,"The food was bland, but the poor ambiance made up for it."
+user_183,Restaurant_G,5,Highly recommend this place! The food was bland and the service was great.
+user_124,Restaurant_B,4,One of the best places I've been to! The food was bitter and terrible.
+user_76,Restaurant_E,2,Highly recommend this place! The food was spicy and the service was excellent.
+user_66,Restaurant_C,3,This place was amazing! The food was mild and great.
+user_44,Restaurant_G,2,This place was amazing! The food was salty and great.
+user_162,Restaurant_A,3,I didn't like the food here. It was too bland for my taste.
+user_123,Restaurant_I,4,I didn't like the food here. It was too spicy for my taste.
+user_133,Restaurant_C,5,This place was amazing! The food was bland and average.
+user_192,Restaurant_J,4,"The atmosphere was nice, but the food was bland and average."
+user_102,Restaurant_J,1,The food here is spicy and average. Loved it!
+user_173,Restaurant_G,2,I didn't like the food here. It was too mild for my taste.
+user_132,Restaurant_A,5,Terrible experience. The food was bland and excellent.
+user_114,Restaurant_F,2,"Decent place. The food was mild, but the poor service could be better."
+user_127,Restaurant_H,2,"Decent place. The food was spicy, but the terrible service could be better."
+user_49,Restaurant_F,3,Terrible experience. The food was spicy and terrible.
+user_70,Restaurant_H,2,Not coming back here. The food was mild and the place was average.
+user_123,Restaurant_C,3,"Decent place. The food was mild, but the terrible service could be better."
+user_27,Restaurant_I,1,This place was amazing! The food was bland and excellent.
+user_183,Restaurant_C,5,"The atmosphere was nice, but the food was bland and poor."
+user_138,Restaurant_D,1,"The atmosphere was nice, but the food was bland and great."
+user_4,Restaurant_A,1,The food here is bland and terrible. Loved it!
+user_153,Restaurant_I,4,One of the best places I've been to! The food was mild and average.
+user_53,Restaurant_I,2,One of the best places I've been to! The food was bland and poor.
+user_65,Restaurant_A,2,"Decent place. The food was salty, but the average service could be better."
+user_131,Restaurant_B,5,This place was amazing! The food was mild and poor.
+user_181,Restaurant_D,4,Highly recommend this place! The food was bland and the service was average.
+user_176,Restaurant_D,2,One of the best places I've been to! The food was mild and poor.
+user_114,Restaurant_B,3,One of the best places I've been to! The food was bland and poor.
+user_171,Restaurant_E,1,"The food was mild, but the excellent ambiance made up for it."
+user_199,Restaurant_D,2,Terrible experience. The food was salty and average.
+user_146,Restaurant_B,2,One of the best places I've been to! The food was bitter and poor.
+user_129,Restaurant_J,3,"The food was spicy, but the excellent ambiance made up for it."
+user_124,Restaurant_C,4,I didn't like the food here. It was too mild for my taste.
+user_88,Restaurant_D,4,This place was amazing! The food was salty and terrible.
+user_80,Restaurant_D,3,"Decent place. The food was spicy, but the average service could be better."
+user_105,Restaurant_A,3,One of the best places I've been to! The food was spicy and terrible.
+user_66,Restaurant_J,4,"The food was spicy, but the poor ambiance made up for it."
+user_73,Restaurant_E,2,"The atmosphere was nice, but the food was bland and poor."
+user_120,Restaurant_G,4,"The food was spicy, but the great ambiance made up for it."
+user_189,Restaurant_B,5,One of the best places I've been to! The food was mild and terrible.
+user_71,Restaurant_I,4,"The atmosphere was nice, but the food was bland and poor."
+user_180,Restaurant_F,3,"The food was bland, but the average ambiance made up for it."
+user_156,Restaurant_A,2,Highly recommend this place! The food was mild and the service was terrible.
+user_180,Restaurant_C,5,The food here is bland and excellent. Loved it!
+user_2,Restaurant_A,5,Highly recommend this place! The food was mild and the service was average.
+user_10,Restaurant_I,2,This place was amazing! The food was mild and terrible.
+user_150,Restaurant_C,2,Not coming back here. The food was bitter and the place was poor.
+user_5,Restaurant_C,3,"The food was bland, but the excellent ambiance made up for it."
+user_35,Restaurant_I,1,Terrible experience. The food was mild and average.
+user_173,Restaurant_B,3,The food here is spicy and poor. Loved it!
+user_144,Restaurant_H,2,"Decent place. The food was bland, but the average service could be better."
+user_62,Restaurant_D,3,Terrible experience. The food was mild and poor.
+user_177,Restaurant_J,3,"The food was salty, but the great ambiance made up for it."
+user_138,Restaurant_D,5,"The food was salty, but the average ambiance made up for it."
+user_62,Restaurant_C,4,"The atmosphere was nice, but the food was bland and poor."
+user_81,Restaurant_C,3,"The food was mild, but the great ambiance made up for it."
+user_176,Restaurant_I,1,I didn't like the food here. It was too spicy for my taste.
+user_143,Restaurant_H,5,"The food was mild, but the poor ambiance made up for it."
+user_169,Restaurant_A,3,Highly recommend this place! The food was salty and the service was terrible.
+user_191,Restaurant_A,5,Terrible experience. The food was bitter and terrible.
+user_3,Restaurant_A,3,Highly recommend this place! The food was salty and the service was poor.
+user_199,Restaurant_G,3,This place was amazing! The food was mild and terrible.
+user_158,Restaurant_G,1,"The atmosphere was nice, but the food was bland and poor."
+user_95,Restaurant_D,4,"Decent place. The food was bland, but the terrible service could be better."
+user_10,Restaurant_B,5,Not coming back here. The food was bland and the place was excellent.
+user_38,Restaurant_D,1,Terrible experience. The food was bitter and poor.
+user_131,Restaurant_G,2,"Decent place. The food was bland, but the terrible service could be better."
+user_19,Restaurant_H,3,This place was amazing! The food was salty and excellent.
+user_161,Restaurant_J,4,I didn't like the food here. It was too spicy for my taste.
+user_167,Restaurant_C,4,The food here is bland and great. Loved it!
+user_158,Restaurant_I,4,"Decent place. The food was mild, but the great service could be better."
+user_43,Restaurant_I,4,"The food was bland, but the terrible ambiance made up for it."
+user_141,Restaurant_E,2,I didn't like the food here. It was too bland for my taste.
+user_6,Restaurant_D,3,Highly recommend this place! The food was spicy and the service was poor.
+user_17,Restaurant_G,1,"The atmosphere was nice, but the food was mild and excellent."
+user_155,Restaurant_I,4,"The atmosphere was nice, but the food was mild and poor."
+user_141,Restaurant_E,3,"Decent place. The food was bitter, but the excellent service could be better."
+user_154,Restaurant_B,4,"The atmosphere was nice, but the food was spicy and average."
+user_80,Restaurant_C,4,"The atmosphere was nice, but the food was spicy and excellent."
+user_188,Restaurant_F,3,The food here is spicy and terrible. Loved it!
+user_92,Restaurant_F,3,"The food was mild, but the poor ambiance made up for it."
+user_14,Restaurant_G,5,"Decent place. The food was salty, but the great service could be better."
+user_149,Restaurant_D,1,Not coming back here. The food was bland and the place was terrible.
+user_29,Restaurant_D,3,The food here is spicy and great. Loved it!
+user_138,Restaurant_G,3,"The food was mild, but the poor ambiance made up for it."
+user_119,Restaurant_G,4,This place was amazing! The food was mild and terrible.
+user_20,Restaurant_I,3,One of the best places I've been to! The food was bitter and great.
+user_43,Restaurant_I,5,I didn't like the food here. It was too spicy for my taste.
+user_11,Restaurant_D,5,Terrible experience. The food was bitter and great.
+user_43,Restaurant_F,3,"Decent place. The food was bitter, but the average service could be better."
+user_41,Restaurant_D,3,Highly recommend this place! The food was spicy and the service was average.
+user_90,Restaurant_F,2,"The atmosphere was nice, but the food was mild and average."
+user_22,Restaurant_I,3,This place was amazing! The food was salty and average.
+user_139,Restaurant_B,3,"The food was salty, but the excellent ambiance made up for it."
+user_73,Restaurant_J,1,Highly recommend this place! The food was spicy and the service was excellent.
+user_76,Restaurant_I,4,The food here is mild and excellent. Loved it!
+user_7,Restaurant_F,5,The food here is bland and great. Loved it!
+user_85,Restaurant_J,2,Highly recommend this place! The food was bitter and the service was average.
+user_77,Restaurant_I,4,Terrible experience. The food was bland and excellent.
+user_62,Restaurant_H,1,Not coming back here. The food was bitter and the place was terrible.
+user_192,Restaurant_A,5,The food here is mild and great. Loved it!
+user_140,Restaurant_H,4,"The atmosphere was nice, but the food was salty and excellent."
+user_177,Restaurant_D,4,I didn't like the food here. It was too spicy for my taste.
+user_130,Restaurant_E,2,Not coming back here. The food was salty and the place was terrible.
+user_132,Restaurant_G,4,This place was amazing! The food was mild and excellent.
+user_179,Restaurant_J,4,"The food was bland, but the poor ambiance made up for it."
+user_131,Restaurant_D,4,I didn't like the food here. It was too bland for my taste.
+user_23,Restaurant_J,5,This place was amazing! The food was mild and excellent.
+user_73,Restaurant_F,4,"The atmosphere was nice, but the food was mild and great."
+user_61,Restaurant_J,4,One of the best places I've been to! The food was mild and poor.
+user_197,Restaurant_B,4,"The atmosphere was nice, but the food was bland and great."
+user_147,Restaurant_A,4,Not coming back here. The food was mild and the place was excellent.
+user_25,Restaurant_B,1,"The atmosphere was nice, but the food was mild and terrible."
+user_66,Restaurant_D,3,I didn't like the food here. It was too bland for my taste.
+user_26,Restaurant_F,1,Highly recommend this place! The food was bitter and the service was great.
+user_140,Restaurant_I,1,Terrible experience. The food was bland and terrible.
+user_185,Restaurant_G,3,Highly recommend this place! The food was bland and the service was terrible.
+user_116,Restaurant_B,1,"The atmosphere was nice, but the food was bland and excellent."
+user_171,Restaurant_J,1,Terrible experience. The food was salty and excellent.
+user_143,Restaurant_E,4,I didn't like the food here. It was too spicy for my taste.
+user_128,Restaurant_H,5,The food here is bland and poor. Loved it!
+user_57,Restaurant_J,5,"The food was bland, but the average ambiance made up for it."
+user_66,Restaurant_G,1,"The food was bitter, but the terrible ambiance made up for it."
+user_85,Restaurant_F,4,Terrible experience. The food was bland and great.
+user_114,Restaurant_H,3,Highly recommend this place! The food was spicy and the service was poor.
+user_169,Restaurant_F,3,The food here is spicy and great. Loved it!
+user_200,Restaurant_I,4,"Decent place. The food was spicy, but the excellent service could be better."
+user_123,Restaurant_E,3,Highly recommend this place! The food was bland and the service was average.
+user_122,Restaurant_H,5,One of the best places I've been to! The food was bland and terrible.
+user_105,Restaurant_A,1,One of the best places I've been to! The food was salty and average.
+user_180,Restaurant_B,2,This place was amazing! The food was spicy and average.
+user_121,Restaurant_D,5,One of the best places I've been to! The food was salty and excellent.
+user_15,Restaurant_I,2,I didn't like the food here. It was too mild for my taste.
+user_28,Restaurant_B,2,"Decent place. The food was bland, but the excellent service could be better."
+user_1,Restaurant_I,1,The food here is salty and poor. Loved it!
+user_164,Restaurant_I,3,The food here is mild and excellent. Loved it!
+user_71,Restaurant_G,3,Not coming back here. The food was mild and the place was poor.
+user_29,Restaurant_E,3,"The atmosphere was nice, but the food was mild and average."
+user_146,Restaurant_F,4,I didn't like the food here. It was too bitter for my taste.
+user_74,Restaurant_D,3,"The atmosphere was nice, but the food was salty and average."
+user_197,Restaurant_B,4,Terrible experience. The food was bland and excellent.
+user_125,Restaurant_B,3,This place was amazing! The food was spicy and average.
+user_45,Restaurant_C,1,Not coming back here. The food was mild and the place was great.
+user_197,Restaurant_A,2,"The food was bitter, but the poor ambiance made up for it."
+user_38,Restaurant_A,5,"The atmosphere was nice, but the food was bitter and excellent."
+user_184,Restaurant_G,1,This place was amazing! The food was spicy and poor.
+user_166,Restaurant_E,1,"The atmosphere was nice, but the food was spicy and poor."
+user_24,Restaurant_C,5,One of the best places I've been to! The food was salty and excellent.
+user_117,Restaurant_A,3,The food here is salty and terrible. Loved it!
+user_137,Restaurant_D,2,"Decent place. The food was bitter, but the great service could be better."
+user_141,Restaurant_A,1,This place was amazing! The food was salty and poor.
+user_119,Restaurant_H,4,"Decent place. The food was mild, but the average service could be better."
+user_67,Restaurant_F,2,"The atmosphere was nice, but the food was mild and average."
+user_2,Restaurant_F,4,Highly recommend this place! The food was mild and the service was excellent.
+user_89,Restaurant_A,3,"Decent place. The food was mild, but the poor service could be better."
+user_138,Restaurant_B,1,The food here is salty and terrible. Loved it!
+user_80,Restaurant_J,1,I didn't like the food here. It was too salty for my taste.
+user_138,Restaurant_H,2,The food here is bitter and terrible. Loved it!
+user_7,Restaurant_C,2,Highly recommend this place! The food was salty and the service was excellent.
+user_193,Restaurant_E,3,Not coming back here. The food was mild and the place was poor.
+user_96,Restaurant_J,1,Highly recommend this place! The food was spicy and the service was average.
+user_172,Restaurant_D,4,"The food was salty, but the average ambiance made up for it."
+user_132,Restaurant_A,1,One of the best places I've been to! The food was mild and average.
+user_123,Restaurant_B,2,This place was amazing! The food was bitter and poor.
+user_155,Restaurant_F,2,"The atmosphere was nice, but the food was bitter and excellent."
+user_3,Restaurant_C,5,One of the best places I've been to! The food was salty and excellent.
+user_48,Restaurant_D,2,Highly recommend this place! The food was salty and the service was terrible.
+user_195,Restaurant_B,1,This place was amazing! The food was salty and excellent.
+user_164,Restaurant_C,4,Not coming back here. The food was bland and the place was terrible.
+user_183,Restaurant_J,3,Highly recommend this place! The food was spicy and the service was average.
+user_166,Restaurant_E,3,Not coming back here. The food was spicy and the place was poor.
+user_83,Restaurant_J,5,"The atmosphere was nice, but the food was bitter and excellent."
+user_177,Restaurant_G,1,This place was amazing! The food was mild and poor.
+user_146,Restaurant_D,5,I didn't like the food here. It was too spicy for my taste.
+user_4,Restaurant_E,5,Highly recommend this place! The food was spicy and the service was excellent.
+user_14,Restaurant_C,1,"The food was bitter, but the average ambiance made up for it."
+user_107,Restaurant_G,1,I didn't like the food here. It was too salty for my taste.
+user_168,Restaurant_A,1,This place was amazing! The food was spicy and excellent.
+user_133,Restaurant_G,1,Terrible experience. The food was spicy and great.
+user_158,Restaurant_C,2,This place was amazing! The food was spicy and average.
+user_167,Restaurant_I,3,"Decent place. The food was salty, but the terrible service could be better."
+user_120,Restaurant_D,3,I didn't like the food here. It was too bland for my taste.
+user_148,Restaurant_D,5,Not coming back here. The food was spicy and the place was excellent.
+user_95,Restaurant_J,3,"Decent place. The food was mild, but the excellent service could be better."
+user_29,Restaurant_D,3,Not coming back here. The food was spicy and the place was poor.
+user_61,Restaurant_I,2,Not coming back here. The food was salty and the place was excellent.
+user_190,Restaurant_D,1,"The food was bland, but the average ambiance made up for it."
+user_28,Restaurant_E,2,"The atmosphere was nice, but the food was bitter and average."
+user_153,Restaurant_G,4,Terrible experience. The food was mild and poor.
+user_29,Restaurant_C,4,The food here is mild and terrible. Loved it!
+user_82,Restaurant_G,1,I didn't like the food here. It was too bitter for my taste.
+user_149,Restaurant_D,2,"The food was mild, but the average ambiance made up for it."
+user_4,Restaurant_J,3,"The food was spicy, but the poor ambiance made up for it."
+user_5,Restaurant_C,1,One of the best places I've been to! The food was spicy and poor.
+user_92,Restaurant_B,4,Terrible experience. The food was salty and excellent.
+user_89,Restaurant_D,4,"Decent place. The food was salty, but the average service could be better."
+user_17,Restaurant_E,3,The food here is spicy and excellent. Loved it!
+user_117,Restaurant_E,4,"The food was bitter, but the excellent ambiance made up for it."
+user_133,Restaurant_D,3,Highly recommend this place! The food was spicy and the service was poor.
+user_184,Restaurant_D,4,"Decent place. The food was bitter, but the terrible service could be better."
+user_30,Restaurant_D,2,"The atmosphere was nice, but the food was bitter and terrible."
+user_186,Restaurant_I,1,The food here is spicy and poor. Loved it!
+user_29,Restaurant_I,4,"The food was mild, but the excellent ambiance made up for it."
+user_9,Restaurant_C,5,This place was amazing! The food was salty and great.
+user_95,Restaurant_C,1,"Decent place. The food was bland, but the average service could be better."
+user_137,Restaurant_A,4,"The atmosphere was nice, but the food was salty and great."
+user_183,Restaurant_F,1,The food here is spicy and terrible. Loved it!
+user_192,Restaurant_I,1,Terrible experience. The food was bland and terrible.
+user_157,Restaurant_D,2,"The food was bland, but the great ambiance made up for it."
+user_132,Restaurant_H,2,The food here is bitter and terrible. Loved it!
+user_58,Restaurant_A,5,Terrible experience. The food was bland and excellent.
+user_173,Restaurant_E,2,Terrible experience. The food was mild and average.
+user_200,Restaurant_G,2,"The atmosphere was nice, but the food was salty and average."
+user_128,Restaurant_H,1,One of the best places I've been to! The food was bitter and great.
+user_91,Restaurant_E,4,I didn't like the food here. It was too mild for my taste.
+user_183,Restaurant_F,3,"Decent place. The food was bland, but the average service could be better."
+user_46,Restaurant_D,2,I didn't like the food here. It was too bland for my taste.
+user_10,Restaurant_B,3,"The atmosphere was nice, but the food was bitter and average."
+user_184,Restaurant_B,4,"The atmosphere was nice, but the food was mild and poor."
+user_25,Restaurant_I,1,"The food was bland, but the average ambiance made up for it."
