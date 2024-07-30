@@ -1,31 +1,4 @@
-###############3
-터미널 에러 출력 해결 요먕
-(SVSAP_ML) C:\Users\SeongHyunKim\workspace\svsap\project>python ai_test.py
-2024-07-30 17:09:48.955132: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-07-30 17:09:51.477840: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-07-30 17:09:56.872894: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-Traceback (most recent call last):
-  File "C:\Users\SeongHyunKim\workspace\svsap\project\ai_test.py", line 8, in <module>
-    model = load_model('restaurant_recommendation_model.h5')
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\saving\saving_api.py", line 189, in load_model
-    return legacy_h5_format.load_model_from_hdf5(
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\legacy\saving\legacy_h5_format.py", line 155, in load_model_from_hdf5
-    **saving_utils.compile_args_from_training_config(
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 143, in compile_args_from_training_config     
-    loss = _deserialize_nested_config(losses.deserialize, loss_config)
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\legacy\saving\saving_utils.py", line 202, in _deserialize_nested_config
-    return deserialize_fn(config)
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\losses\__init__.py", line 149, in deserialize
-    return serialization_lib.deserialize_keras_object(
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\saving\serialization_lib.py", line 575, in deserialize_keras_object
-    return deserialize_keras_object(
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\saving\serialization_lib.py", line 678, in deserialize_keras_object
-    return _retrieve_class_or_fn(
-  File "C:\Users\SeongHyunKim\anaconda3\envs\SVSAP_ML\lib\site-packages\keras\src\saving\serialization_lib.py", line 812, in _retrieve_class_or_fn
-    raise TypeError(
-TypeError: Could not locate function 'mse'. Make sure custom classes are decorated with `@keras.saving.register_keras_serializable()`. Full object config: {'module': 'keras.metrics', 'class_name': 'function', 'config': 'mse', 'registered_name': 'mse'}
-
+###############
 
 #################3
 import numpy as np
