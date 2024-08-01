@@ -1,48 +1,87 @@
 import pandas as pd
-import random
+import numpy as np
 
-# 식당 목록
-restaurants = ['Restaurant_A', 'Restaurant_B', 'Restaurant_C', 'Restaurant_D', 'Restaurant_E', 
-               'Restaurant_F', 'Restaurant_G', 'Restaurant_H', 'Restaurant_I', 'Restaurant_J']
+# 설정
+num_users = 100
+num_restaurants = 50
+num_foods = 200
+num_reviews = 1000
 
-# 사용자 ID 목록
-users = [f'user_{i}' for i in range(1, 201)]  # 총 200명의 사용자
+# 사용자 데이터 생성
+np.random.seed(42)
+user_ids = np.arange(num_users)
+countries = ['USA', 'Korea', 'Japan']
+preferred_flavors = ['sweet', 'sour', 'salty', 'bitter', 'umami', 'spicy']
+disliked_ingredients = ['Meat', 'Seafood', 'Vegetable']
+preferred_cuisines = ['Japanese', 'Korean', 'American', 'Indian']
+allergy_ingredients = ['peanut', 'nut', 'shellfish', 'milk', 'egg', 'wheat']
 
-# 리뷰 내용 템플릿
-review_templates = [
-    "This place was amazing! The food was {adj1} and {adj2}.",
-    "I didn't like the food here. It was too {adj1} for my taste.",
-    "The atmosphere was nice, but the food was {adj1} and {adj2}.",
-    "Highly recommend this place! The food was {adj1} and the service was {adj2}.",
-    "Not coming back here. The food was {adj1} and the place was {adj2}.",
-    "Decent place. The food was {adj1}, but the {adj2} service could be better.",
-    "The food here is {adj1} and {adj2}. Loved it!",
-    "Terrible experience. The food was {adj1} and {adj2}.",
-    "One of the best places I've been to! The food was {adj1} and {adj2}.",
-    "The food was {adj1}, but the {adj2} ambiance made up for it."
+users = pd.DataFrame({
+    'user_id': user_ids,
+    'country': np.random.choice(countries, num_users),
+    'preferred_flavors': np.random.choice(preferred_flavors, num_users),
+    'non_preferred_flavors': np.random.choice(preferred_flavors, num_users),
+    'disliked_ingredients': np.random.choice(disliked_ingredients, num_users),
+    'preferred_cuisines': np.random.choice(preferred_cuisines, num_users),
+    'allergy_ingredients': np.random.choice(allergy_ingredients, num_users)
+})
+
+# 음식 데이터 생성
+food_ids = np.arange(num_foods)
+foods = pd.DataFrame({
+    'food_id': food_ids,
+    'food_name': [f'Food_{i}' for i in food_ids],
+    'basic_taste': np.random.choice(preferred_flavors, num_foods),
+    'other_tastes': [','.join(np.random.choice(preferred_flavors, 3, replace=False)) for _ in range(num_foods)],
+    'ingredients': [','.join(np.random.choice(disliked_ingredients, 2, replace=False)) for _ in range(num_foods)]
+})
+
+# 식당 데이터 생성
+restaurant_ids = np.arange(num_restaurants)
+restaurants = pd.DataFrame({
+    'restaurant_id': restaurant_ids,
+    'restaurant_name': [f'Restaurant_{i}' for i in restaurant_ids],
+    'food_ids': [','.join(map(str, np.random.choice(food_ids, np.random.randint(1, 10), replace=False))) for _ in range(num_restaurants)]
+})
+
+# 주관적인 리뷰 텍스트 생성
+review_texts_positive = [
+    "Absolutely loved it! The flavors were perfectly balanced.",
+    "One of the best meals I've ever had. Highly recommend!",
+    "Fantastic food and great service. Will definitely come back.",
+    "Delicious and delightful! Every bite was amazing.",
+    "A culinary masterpiece. The chef knows what they're doing!"
 ]
 
-# 주관적 평가 목록
-adjectives1 = ['spicy', 'salty', 'bland', 'mild', 'bitter']
-adjectives2 = ['great', 'terrible', 'average', 'excellent', 'poor']
+review_texts_negative = [
+    "Terrible experience. The food was bland and tasteless.",
+    "Not worth the money. Very disappointed.",
+    "Service was slow and the food was overcooked.",
+    "Wouldn't recommend it to anyone. Really bad.",
+    "Awful. The worst dining experience I've had in a while."
+]
 
-# 랜덤 리뷰 생성
-reviews = []
-for _ in range(1000):
-    user = random.choice(users)
-    restaurant = random.choice(restaurants)
-    rating = random.randint(1, 5)
-    template = random.choice(review_templates)
-    adj1 = random.choice(adjectives1)
-    adj2 = random.choice(adjectives2)
-    review = template.format(adj1=adj1, adj2=adj2)
-    reviews.append((user, restaurant, rating, review))
+# 리뷰 데이터 생성
+review_user_ids = np.random.choice(user_ids, num_reviews)
+review_restaurant_ids = np.random.choice(restaurant_ids, num_reviews)
+review_food_ids = [np.random.choice(list(map(int, restaurants.loc[restaurants['restaurant_id'] == rid, 'food_ids'].values[0].split(',')))) for rid in review_restaurant_ids]
+ratings = np.random.randint(1, 6, num_reviews)
+review_texts = [
+    review_texts_positive[rating - 4] if rating > 3 else review_texts_negative[rating - 1]
+    for rating in ratings
+]
 
-# 데이터프레임 생성
-df = pd.DataFrame(reviews, columns=['user', 'restaurant', 'rating', 'review'])
+reviews = pd.DataFrame({
+    'user_id': review_user_ids,
+    'restaurant_id': review_restaurant_ids,
+    'food_id': review_food_ids,
+    'rating': ratings,
+    'review_text': review_texts,
+    'country': [users.loc[users['user_id'] == uid, 'country'].values[0] for uid in review_user_ids]
+})
 
-# CSV 파일로 저장
-df.to_csv('restaurant_reviews_detailed.csv', index=False)
-
-# 데이터 출력 확인
-print(df.head())
+# 데이터 저장
+users.to_csv('data/users.csv', index=False)
+foods.to_csv('data/foods.csv', index=False)
+restaurants.to_csv('data/restaurants.csv', index=False)
+reviews.to_csv('data/reviews.csv', index=False)

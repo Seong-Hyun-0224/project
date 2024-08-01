@@ -1,0 +1,1001 @@
+user_id,restaurant_id,food_id,rating,review_text,country
+23,37,74,5,One of the best meals I've ever had. Highly recommend!,Korea
+76,36,15,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+95,47,43,2,Not worth the money. Very disappointed.,USA
+3,47,20,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+12,9,176,5,One of the best meals I've ever had. Highly recommend!,USA
+72,40,44,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+56,35,102,5,One of the best meals I've ever had. Highly recommend!,Japan
+97,28,86,1,Terrible experience. The food was bland and tasteless.,Japan
+36,13,138,1,Terrible experience. The food was bland and tasteless.,Japan
+47,3,120,3,Service was slow and the food was overcooked.,USA
+70,43,67,2,Not worth the money. Very disappointed.,Japan
+0,41,72,1,Terrible experience. The food was bland and tasteless.,Japan
+59,35,97,5,One of the best meals I've ever had. Highly recommend!,Japan
+11,49,171,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+20,44,158,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+10,12,30,3,Service was slow and the food was overcooked.,Japan
+43,45,71,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+57,17,122,1,Terrible experience. The food was bland and tasteless.,USA
+43,32,131,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+77,20,130,1,Terrible experience. The food was bland and tasteless.,Japan
+97,15,110,1,Terrible experience. The food was bland and tasteless.,Japan
+33,14,91,2,Not worth the money. Very disappointed.,Korea
+24,4,95,3,Service was slow and the food was overcooked.,USA
+3,5,9,5,One of the best meals I've ever had. Highly recommend!,Japan
+63,37,23,1,Terrible experience. The food was bland and tasteless.,Korea
+89,2,60,3,Service was slow and the food was overcooked.,USA
+15,47,43,5,One of the best meals I've ever had. Highly recommend!,USA
+9,11,45,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+65,35,64,3,Service was slow and the food was overcooked.,Korea
+34,32,81,3,Service was slow and the food was overcooked.,Japan
+82,35,59,3,Service was slow and the food was overcooked.,Korea
+5,32,64,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+18,30,52,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+58,20,25,3,Service was slow and the food was overcooked.,Japan
+52,26,187,2,Not worth the money. Very disappointed.,Korea
+7,26,7,1,Terrible experience. The food was bland and tasteless.,Korea
+77,7,199,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+9,36,15,2,Not worth the money. Very disappointed.,Japan
+66,31,176,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+37,25,42,3,Service was slow and the food was overcooked.,Japan
+28,1,180,2,Not worth the money. Very disappointed.,Japan
+14,11,134,5,One of the best meals I've ever had. Highly recommend!,Korea
+86,21,26,1,Terrible experience. The food was bland and tasteless.,Japan
+22,16,93,1,Terrible experience. The food was bland and tasteless.,Korea
+81,6,114,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+45,42,14,1,Terrible experience. The food was bland and tasteless.,Japan
+82,3,128,5,One of the best meals I've ever had. Highly recommend!,Korea
+27,36,125,2,Not worth the money. Very disappointed.,Japan
+25,37,23,2,Not worth the money. Very disappointed.,USA
+9,31,176,3,Service was slow and the food was overcooked.,Japan
+46,10,76,2,Not worth the money. Very disappointed.,Korea
+3,0,70,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+54,24,69,5,One of the best meals I've ever had. Highly recommend!,Korea
+65,41,72,3,Service was slow and the food was overcooked.,Korea
+66,23,73,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+6,42,106,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+54,16,6,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+79,7,38,1,Terrible experience. The food was bland and tasteless.,Korea
+30,44,184,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+73,26,7,1,Terrible experience. The food was bland and tasteless.,Korea
+18,17,122,2,Not worth the money. Very disappointed.,Korea
+27,26,187,1,Terrible experience. The food was bland and tasteless.,Japan
+80,21,26,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+27,15,173,5,One of the best meals I've ever had. Highly recommend!,Japan
+18,1,126,5,One of the best meals I've ever had. Highly recommend!,Korea
+86,4,91,2,Not worth the money. Very disappointed.,Japan
+19,17,122,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+12,2,60,1,Terrible experience. The food was bland and tasteless.,USA
+76,26,187,5,One of the best meals I've ever had. Highly recommend!,Korea
+42,16,93,3,Service was slow and the food was overcooked.,Japan
+10,15,173,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+47,5,28,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+14,6,4,3,Service was slow and the food was overcooked.,Korea
+16,49,166,5,One of the best meals I've ever had. Highly recommend!,Korea
+53,13,122,3,Service was slow and the food was overcooked.,USA
+49,37,23,2,Not worth the money. Very disappointed.,Korea
+27,39,97,1,Terrible experience. The food was bland and tasteless.,Japan
+82,14,111,1,Terrible experience. The food was bland and tasteless.,Korea
+3,46,52,5,One of the best meals I've ever had. Highly recommend!,Japan
+21,46,52,3,Service was slow and the food was overcooked.,USA
+85,47,136,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+38,32,171,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+33,42,14,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+96,26,187,2,Not worth the money. Very disappointed.,USA
+43,28,154,2,Not worth the money. Very disappointed.,USA
+41,36,125,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+39,4,51,5,One of the best meals I've ever had. Highly recommend!,Japan
+96,28,27,2,Not worth the money. Very disappointed.,USA
+11,31,198,2,Not worth the money. Very disappointed.,Japan
+1,5,140,1,Terrible experience. The food was bland and tasteless.,USA
+27,1,152,1,Terrible experience. The food was bland and tasteless.,Japan
+73,5,9,5,One of the best meals I've ever had. Highly recommend!,Korea
+85,45,71,2,Not worth the money. Very disappointed.,Korea
+80,42,184,2,Not worth the money. Very disappointed.,Japan
+89,3,120,3,Service was slow and the food was overcooked.,USA
+66,28,154,5,One of the best meals I've ever had. Highly recommend!,Korea
+70,24,85,5,One of the best meals I've ever had. Highly recommend!,Japan
+71,8,177,3,Service was slow and the food was overcooked.,Korea
+83,2,115,3,Service was slow and the food was overcooked.,USA
+75,25,104,1,Terrible experience. The food was bland and tasteless.,Korea
+98,47,20,5,One of the best meals I've ever had. Highly recommend!,USA
+80,42,106,5,One of the best meals I've ever had. Highly recommend!,Japan
+91,26,7,3,Service was slow and the food was overcooked.,USA
+9,35,139,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+85,31,198,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+56,0,174,1,Terrible experience. The food was bland and tasteless.,Japan
+96,15,42,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+85,47,20,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+36,10,145,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+76,25,42,2,Not worth the money. Very disappointed.,Korea
+90,39,182,1,Terrible experience. The food was bland and tasteless.,USA
+63,0,174,3,Service was slow and the food was overcooked.,Korea
+78,25,54,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+85,27,183,2,Not worth the money. Very disappointed.,Korea
+93,8,177,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+39,43,67,2,Not worth the money. Very disappointed.,Japan
+97,21,1,1,Terrible experience. The food was bland and tasteless.,Japan
+59,7,110,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+97,48,33,2,Not worth the money. Very disappointed.,Japan
+47,41,164,5,One of the best meals I've ever had. Highly recommend!,USA
+98,26,7,5,One of the best meals I've ever had. Highly recommend!,USA
+18,38,92,2,Not worth the money. Very disappointed.,Korea
+71,18,196,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+32,24,69,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+43,37,23,1,Terrible experience. The food was bland and tasteless.,USA
+91,20,25,1,Terrible experience. The food was bland and tasteless.,USA
+36,23,194,3,Service was slow and the food was overcooked.,Japan
+88,23,177,1,Terrible experience. The food was bland and tasteless.,Korea
+35,18,22,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+80,49,90,3,Service was slow and the food was overcooked.,Japan
+87,46,12,1,Terrible experience. The food was bland and tasteless.,USA
+20,1,180,2,Not worth the money. Very disappointed.,USA
+1,13,122,5,One of the best meals I've ever had. Highly recommend!,USA
+30,31,198,1,Terrible experience. The food was bland and tasteless.,Korea
+96,41,129,1,Terrible experience. The food was bland and tasteless.,USA
+29,31,198,2,Not worth the money. Very disappointed.,Japan
+75,27,59,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+43,47,43,2,Not worth the money. Very disappointed.,USA
+11,38,71,1,Terrible experience. The food was bland and tasteless.,Japan
+50,39,118,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+48,41,72,3,Service was slow and the food was overcooked.,Korea
+23,46,129,1,Terrible experience. The food was bland and tasteless.,Korea
+23,39,199,2,Not worth the money. Very disappointed.,Korea
+59,12,107,3,Service was slow and the food was overcooked.,Japan
+10,11,45,5,One of the best meals I've ever had. Highly recommend!,Japan
+12,7,143,3,Service was slow and the food was overcooked.,USA
+90,14,161,2,Not worth the money. Very disappointed.,USA
+71,25,171,3,Service was slow and the food was overcooked.,Korea
+73,11,134,2,Not worth the money. Very disappointed.,Korea
+71,42,14,1,Terrible experience. The food was bland and tasteless.,Korea
+63,45,71,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+19,26,7,5,One of the best meals I've ever had. Highly recommend!,Korea
+71,17,122,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+72,44,103,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+70,35,97,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+77,48,1,2,Not worth the money. Very disappointed.,Japan
+27,26,187,2,Not worth the money. Very disappointed.,Japan
+1,8,177,5,One of the best meals I've ever had. Highly recommend!,USA
+42,38,71,2,Not worth the money. Very disappointed.,Japan
+7,0,59,2,Not worth the money. Very disappointed.,Korea
+12,6,114,2,Not worth the money. Very disappointed.,USA
+84,25,54,2,Not worth the money. Very disappointed.,USA
+91,6,114,1,Terrible experience. The food was bland and tasteless.,USA
+34,6,110,5,One of the best meals I've ever had. Highly recommend!,Japan
+22,7,139,2,Not worth the money. Very disappointed.,Korea
+45,15,173,5,One of the best meals I've ever had. Highly recommend!,Japan
+14,2,115,3,Service was slow and the food was overcooked.,Korea
+1,44,103,1,Terrible experience. The food was bland and tasteless.,USA
+60,9,176,2,Not worth the money. Very disappointed.,Korea
+75,49,171,1,Terrible experience. The food was bland and tasteless.,Korea
+63,6,114,1,Terrible experience. The food was bland and tasteless.,Korea
+51,20,130,3,Service was slow and the food was overcooked.,USA
+35,36,172,5,One of the best meals I've ever had. Highly recommend!,Korea
+66,30,52,1,Terrible experience. The food was bland and tasteless.,Korea
+68,22,128,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+66,26,7,3,Service was slow and the food was overcooked.,Korea
+46,21,26,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+82,38,174,3,Service was slow and the food was overcooked.,Korea
+1,26,7,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+43,48,100,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+63,3,128,1,Terrible experience. The food was bland and tasteless.,Korea
+80,23,72,1,Terrible experience. The food was bland and tasteless.,Japan
+77,22,85,3,Service was slow and the food was overcooked.,Japan
+27,47,29,5,One of the best meals I've ever had. Highly recommend!,Japan
+90,18,22,1,Terrible experience. The food was bland and tasteless.,USA
+53,41,97,1,Terrible experience. The food was bland and tasteless.,USA
+73,2,60,2,Not worth the money. Very disappointed.,Korea
+66,26,187,1,Terrible experience. The food was bland and tasteless.,Korea
+35,2,60,5,One of the best meals I've ever had. Highly recommend!,Korea
+62,27,59,2,Not worth the money. Very disappointed.,Korea
+24,16,6,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+85,30,70,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+47,9,72,2,Not worth the money. Very disappointed.,USA
+38,48,9,2,Not worth the money. Very disappointed.,USA
+46,21,1,2,Not worth the money. Very disappointed.,Korea
+93,29,58,3,Service was slow and the food was overcooked.,Japan
+20,48,95,5,One of the best meals I've ever had. Highly recommend!,USA
+29,20,111,5,One of the best meals I've ever had. Highly recommend!,Japan
+91,35,102,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+30,22,85,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+25,37,74,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+21,11,45,1,Terrible experience. The food was bland and tasteless.,USA
+20,24,110,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+0,19,171,2,Not worth the money. Very disappointed.,Japan
+36,48,95,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+76,48,95,2,Not worth the money. Very disappointed.,Korea
+84,41,72,3,Service was slow and the food was overcooked.,USA
+45,6,31,1,Terrible experience. The food was bland and tasteless.,Japan
+8,28,25,1,Terrible experience. The food was bland and tasteless.,Japan
+16,47,20,5,One of the best meals I've ever had. Highly recommend!,Korea
+46,28,25,3,Service was slow and the food was overcooked.,Korea
+84,12,9,2,Not worth the money. Very disappointed.,USA
+94,2,115,3,Service was slow and the food was overcooked.,USA
+58,1,180,1,Terrible experience. The food was bland and tasteless.,Japan
+53,15,110,2,Not worth the money. Very disappointed.,USA
+85,29,59,3,Service was slow and the food was overcooked.,Korea
+11,37,159,1,Terrible experience. The food was bland and tasteless.,Japan
+63,5,9,2,Not worth the money. Very disappointed.,Korea
+5,44,129,2,Not worth the money. Very disappointed.,USA
+52,6,49,1,Terrible experience. The food was bland and tasteless.,Korea
+15,4,94,2,Not worth the money. Very disappointed.,USA
+89,6,137,1,Terrible experience. The food was bland and tasteless.,USA
+4,33,53,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+72,31,198,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+45,48,74,2,Not worth the money. Very disappointed.,Japan
+13,12,111,2,Not worth the money. Very disappointed.,Japan
+43,29,59,1,Terrible experience. The food was bland and tasteless.,USA
+62,24,69,2,Not worth the money. Very disappointed.,Korea
+93,20,25,5,One of the best meals I've ever had. Highly recommend!,Japan
+51,20,166,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+25,27,59,2,Not worth the money. Very disappointed.,USA
+52,47,43,2,Not worth the money. Very disappointed.,Korea
+28,19,1,3,Service was slow and the food was overcooked.,Japan
+18,33,53,2,Not worth the money. Very disappointed.,Korea
+46,4,51,5,One of the best meals I've ever had. Highly recommend!,Korea
+7,17,122,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+22,38,39,3,Service was slow and the food was overcooked.,Korea
+34,42,14,1,Terrible experience. The food was bland and tasteless.,Japan
+94,10,145,1,Terrible experience. The food was bland and tasteless.,USA
+52,16,6,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+98,47,20,1,Terrible experience. The food was bland and tasteless.,USA
+95,44,158,5,One of the best meals I've ever had. Highly recommend!,USA
+57,21,1,2,Not worth the money. Very disappointed.,USA
+4,36,172,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+15,19,1,3,Service was slow and the food was overcooked.,USA
+16,47,29,2,Not worth the money. Very disappointed.,Korea
+31,47,136,1,Terrible experience. The food was bland and tasteless.,Japan
+95,47,155,1,Terrible experience. The food was bland and tasteless.,USA
+51,45,71,3,Service was slow and the food was overcooked.,USA
+19,5,173,5,One of the best meals I've ever had. Highly recommend!,Korea
+65,33,93,3,Service was slow and the food was overcooked.,Korea
+83,13,122,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+81,47,20,3,Service was slow and the food was overcooked.,USA
+0,22,106,1,Terrible experience. The food was bland and tasteless.,Japan
+57,19,113,5,One of the best meals I've ever had. Highly recommend!,USA
+92,12,128,5,One of the best meals I've ever had. Highly recommend!,USA
+92,46,129,3,Service was slow and the food was overcooked.,USA
+82,43,67,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+43,40,48,1,Terrible experience. The food was bland and tasteless.,USA
+5,31,176,2,Not worth the money. Very disappointed.,USA
+49,25,29,5,One of the best meals I've ever had. Highly recommend!,Korea
+71,49,97,3,Service was slow and the food was overcooked.,Korea
+87,13,23,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+19,35,139,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+13,7,110,1,Terrible experience. The food was bland and tasteless.,Japan
+4,39,199,5,One of the best meals I've ever had. Highly recommend!,USA
+40,21,26,1,Terrible experience. The food was bland and tasteless.,USA
+39,21,26,2,Not worth the money. Very disappointed.,Japan
+33,15,162,2,Not worth the money. Very disappointed.,Korea
+79,26,187,2,Not worth the money. Very disappointed.,Korea
+44,9,33,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+70,24,85,5,One of the best meals I've ever had. Highly recommend!,Japan
+79,30,52,1,Terrible experience. The food was bland and tasteless.,Korea
+70,20,130,1,Terrible experience. The food was bland and tasteless.,Japan
+26,26,187,2,Not worth the money. Very disappointed.,USA
+77,16,93,5,One of the best meals I've ever had. Highly recommend!,Japan
+77,32,110,5,One of the best meals I've ever had. Highly recommend!,Japan
+43,30,52,3,Service was slow and the food was overcooked.,USA
+32,49,97,5,One of the best meals I've ever had. Highly recommend!,Korea
+32,41,13,5,One of the best meals I've ever had. Highly recommend!,Korea
+43,25,74,1,Terrible experience. The food was bland and tasteless.,USA
+19,20,166,5,One of the best meals I've ever had. Highly recommend!,Korea
+35,35,59,5,One of the best meals I've ever had. Highly recommend!,Korea
+6,0,109,1,Terrible experience. The food was bland and tasteless.,Japan
+31,3,120,5,One of the best meals I've ever had. Highly recommend!,Japan
+66,3,106,1,Terrible experience. The food was bland and tasteless.,Korea
+38,25,171,3,Service was slow and the food was overcooked.,USA
+92,3,178,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+23,48,16,1,Terrible experience. The food was bland and tasteless.,Korea
+85,8,177,1,Terrible experience. The food was bland and tasteless.,Korea
+69,29,149,5,One of the best meals I've ever had. Highly recommend!,USA
+87,44,158,1,Terrible experience. The food was bland and tasteless.,USA
+86,3,120,2,Not worth the money. Very disappointed.,Japan
+53,4,150,2,Not worth the money. Very disappointed.,USA
+37,44,103,3,Service was slow and the food was overcooked.,Japan
+73,22,106,1,Terrible experience. The food was bland and tasteless.,Korea
+79,15,74,5,One of the best meals I've ever had. Highly recommend!,Korea
+74,21,1,5,One of the best meals I've ever had. Highly recommend!,Korea
+31,36,172,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+44,7,163,3,Service was slow and the food was overcooked.,USA
+60,47,20,5,One of the best meals I've ever had. Highly recommend!,Korea
+69,32,110,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+87,37,23,5,One of the best meals I've ever had. Highly recommend!,USA
+96,42,14,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+52,15,74,2,Not worth the money. Very disappointed.,Korea
+50,4,95,2,Not worth the money. Very disappointed.,Korea
+75,15,173,5,One of the best meals I've ever had. Highly recommend!,Korea
+55,6,47,3,Service was slow and the food was overcooked.,Japan
+26,0,39,1,Terrible experience. The food was bland and tasteless.,USA
+37,8,177,3,Service was slow and the food was overcooked.,Japan
+61,17,122,3,Service was slow and the food was overcooked.,USA
+17,44,158,1,Terrible experience. The food was bland and tasteless.,Korea
+63,46,129,2,Not worth the money. Very disappointed.,Korea
+76,2,60,2,Not worth the money. Very disappointed.,Korea
+29,23,7,1,Terrible experience. The food was bland and tasteless.,Japan
+48,27,59,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+40,9,176,3,Service was slow and the food was overcooked.,USA
+12,8,177,5,One of the best meals I've ever had. Highly recommend!,USA
+33,12,128,2,Not worth the money. Very disappointed.,Korea
+99,47,98,5,One of the best meals I've ever had. Highly recommend!,USA
+93,34,176,1,Terrible experience. The food was bland and tasteless.,Japan
+24,22,128,5,One of the best meals I've ever had. Highly recommend!,USA
+65,46,52,5,One of the best meals I've ever had. Highly recommend!,Korea
+99,16,6,3,Service was slow and the food was overcooked.,USA
+17,45,71,1,Terrible experience. The food was bland and tasteless.,Korea
+4,6,137,5,One of the best meals I've ever had. Highly recommend!,USA
+18,15,145,2,Not worth the money. Very disappointed.,Korea
+41,39,106,1,Terrible experience. The food was bland and tasteless.,Japan
+17,35,102,2,Not worth the money. Very disappointed.,Korea
+31,19,171,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+20,23,73,5,One of the best meals I've ever had. Highly recommend!,USA
+9,46,12,1,Terrible experience. The food was bland and tasteless.,Japan
+36,4,150,2,Not worth the money. Very disappointed.,Japan
+48,44,52,5,One of the best meals I've ever had. Highly recommend!,Korea
+85,5,77,3,Service was slow and the food was overcooked.,Korea
+12,27,59,2,Not worth the money. Very disappointed.,USA
+54,4,29,2,Not worth the money. Very disappointed.,Korea
+16,48,95,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+8,38,174,3,Service was slow and the food was overcooked.,Japan
+87,37,74,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+43,1,180,3,Service was slow and the food was overcooked.,USA
+77,42,14,2,Not worth the money. Very disappointed.,Japan
+45,38,163,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+7,20,130,5,One of the best meals I've ever had. Highly recommend!,Korea
+36,39,97,3,Service was slow and the food was overcooked.,Japan
+18,36,15,2,Not worth the money. Very disappointed.,Korea
+62,17,122,1,Terrible experience. The food was bland and tasteless.,Korea
+91,47,155,3,Service was slow and the food was overcooked.,USA
+45,45,71,3,Service was slow and the food was overcooked.,Japan
+93,11,134,5,One of the best meals I've ever had. Highly recommend!,Japan
+70,16,93,3,Service was slow and the food was overcooked.,Japan
+25,36,15,3,Service was slow and the food was overcooked.,USA
+45,45,71,5,One of the best meals I've ever had. Highly recommend!,Japan
+45,37,74,5,One of the best meals I've ever had. Highly recommend!,Japan
+74,14,5,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+13,6,49,2,Not worth the money. Very disappointed.,Japan
+84,13,122,2,Not worth the money. Very disappointed.,USA
+62,49,97,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+71,0,109,2,Not worth the money. Very disappointed.,Korea
+2,37,23,3,Service was slow and the food was overcooked.,Japan
+27,2,60,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+28,36,15,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+86,43,132,2,Not worth the money. Very disappointed.,Japan
+17,30,52,1,Terrible experience. The food was bland and tasteless.,Korea
+34,42,14,2,Not worth the money. Very disappointed.,Japan
+76,12,111,1,Terrible experience. The food was bland and tasteless.,Korea
+75,47,29,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+46,17,122,1,Terrible experience. The food was bland and tasteless.,Korea
+4,16,6,3,Service was slow and the food was overcooked.,USA
+74,16,6,5,One of the best meals I've ever had. Highly recommend!,Korea
+58,10,145,1,Terrible experience. The food was bland and tasteless.,Japan
+74,19,152,5,One of the best meals I've ever had. Highly recommend!,Korea
+58,9,183,3,Service was slow and the food was overcooked.,Japan
+46,28,25,5,One of the best meals I've ever had. Highly recommend!,Korea
+94,47,155,3,Service was slow and the food was overcooked.,USA
+94,33,82,5,One of the best meals I've ever had. Highly recommend!,USA
+12,16,93,5,One of the best meals I've ever had. Highly recommend!,USA
+77,41,77,2,Not worth the money. Very disappointed.,Japan
+88,12,9,1,Terrible experience. The food was bland and tasteless.,Korea
+32,43,151,5,One of the best meals I've ever had. Highly recommend!,Korea
+96,46,52,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+61,38,147,2,Not worth the money. Very disappointed.,USA
+78,26,187,1,Terrible experience. The food was bland and tasteless.,Japan
+15,25,59,2,Not worth the money. Very disappointed.,USA
+43,27,59,1,Terrible experience. The food was bland and tasteless.,USA
+57,12,107,3,Service was slow and the food was overcooked.,USA
+5,11,45,5,One of the best meals I've ever had. Highly recommend!,USA
+88,43,67,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+14,27,59,2,Not worth the money. Very disappointed.,Korea
+3,1,126,2,Not worth the money. Very disappointed.,Japan
+55,36,15,2,Not worth the money. Very disappointed.,Japan
+63,33,53,2,Not worth the money. Very disappointed.,Korea
+67,22,85,5,One of the best meals I've ever had. Highly recommend!,Korea
+93,44,156,1,Terrible experience. The food was bland and tasteless.,Japan
+33,28,64,5,One of the best meals I've ever had. Highly recommend!,Korea
+90,34,60,3,Service was slow and the food was overcooked.,USA
+94,10,179,5,One of the best meals I've ever had. Highly recommend!,USA
+55,47,29,5,One of the best meals I've ever had. Highly recommend!,Japan
+31,32,81,3,Service was slow and the food was overcooked.,Japan
+8,10,82,5,One of the best meals I've ever had. Highly recommend!,Japan
+62,8,177,1,Terrible experience. The food was bland and tasteless.,Korea
+71,13,23,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+77,8,177,3,Service was slow and the food was overcooked.,Japan
+32,38,92,2,Not worth the money. Very disappointed.,Korea
+86,47,29,1,Terrible experience. The food was bland and tasteless.,Japan
+20,2,60,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+54,28,27,1,Terrible experience. The food was bland and tasteless.,Korea
+75,18,151,1,Terrible experience. The food was bland and tasteless.,Korea
+56,35,64,2,Not worth the money. Very disappointed.,Japan
+1,31,198,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+12,6,114,1,Terrible experience. The food was bland and tasteless.,USA
+3,27,59,2,Not worth the money. Very disappointed.,Japan
+83,43,82,3,Service was slow and the food was overcooked.,USA
+49,17,122,2,Not worth the money. Very disappointed.,Korea
+47,4,51,5,One of the best meals I've ever had. Highly recommend!,USA
+77,22,90,2,Not worth the money. Very disappointed.,Japan
+29,21,26,2,Not worth the money. Very disappointed.,Japan
+28,25,74,2,Not worth the money. Very disappointed.,Japan
+7,41,164,1,Terrible experience. The food was bland and tasteless.,Korea
+11,11,134,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+40,39,182,2,Not worth the money. Very disappointed.,USA
+25,18,104,2,Not worth the money. Very disappointed.,USA
+49,46,129,5,One of the best meals I've ever had. Highly recommend!,Korea
+1,0,174,5,One of the best meals I've ever had. Highly recommend!,USA
+54,2,115,3,Service was slow and the food was overcooked.,Korea
+55,26,187,3,Service was slow and the food was overcooked.,Japan
+13,17,122,5,One of the best meals I've ever had. Highly recommend!,Japan
+5,49,166,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+94,29,93,3,Service was slow and the food was overcooked.,USA
+80,1,180,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+88,4,91,5,One of the best meals I've ever had. Highly recommend!,Korea
+60,28,27,3,Service was slow and the food was overcooked.,Korea
+95,32,64,2,Not worth the money. Very disappointed.,USA
+11,41,13,5,One of the best meals I've ever had. Highly recommend!,Japan
+12,19,152,3,Service was slow and the food was overcooked.,USA
+18,29,18,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+43,41,19,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+88,4,94,3,Service was slow and the food was overcooked.,Korea
+94,49,97,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+58,20,25,3,Service was slow and the food was overcooked.,Japan
+36,14,158,3,Service was slow and the food was overcooked.,Japan
+24,19,152,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+15,7,139,1,Terrible experience. The food was bland and tasteless.,USA
+37,48,9,2,Not worth the money. Very disappointed.,Japan
+42,30,70,5,One of the best meals I've ever had. Highly recommend!,Japan
+86,11,45,2,Not worth the money. Very disappointed.,Japan
+13,20,158,5,One of the best meals I've ever had. Highly recommend!,Japan
+5,29,31,5,One of the best meals I've ever had. Highly recommend!,USA
+88,26,7,2,Not worth the money. Very disappointed.,Korea
+22,43,82,3,Service was slow and the food was overcooked.,Korea
+59,25,59,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+11,32,110,1,Terrible experience. The food was bland and tasteless.,Japan
+12,25,59,1,Terrible experience. The food was bland and tasteless.,USA
+99,25,42,1,Terrible experience. The food was bland and tasteless.,USA
+97,35,97,2,Not worth the money. Very disappointed.,Japan
+5,39,106,2,Not worth the money. Very disappointed.,USA
+62,0,70,3,Service was slow and the food was overcooked.,Korea
+37,14,5,1,Terrible experience. The food was bland and tasteless.,Japan
+49,49,97,3,Service was slow and the food was overcooked.,Korea
+51,0,97,1,Terrible experience. The food was bland and tasteless.,USA
+39,10,156,2,Not worth the money. Very disappointed.,Japan
+7,1,126,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+60,0,174,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+7,30,52,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+96,43,17,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+33,15,173,5,One of the best meals I've ever had. Highly recommend!,Korea
+78,21,26,1,Terrible experience. The food was bland and tasteless.,Japan
+99,41,164,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+59,17,122,5,One of the best meals I've ever had. Highly recommend!,Japan
+56,46,52,5,One of the best meals I've ever had. Highly recommend!,Japan
+98,16,6,5,One of the best meals I've ever had. Highly recommend!,USA
+45,29,31,3,Service was slow and the food was overcooked.,Japan
+21,9,176,3,Service was slow and the food was overcooked.,USA
+86,34,157,5,One of the best meals I've ever had. Highly recommend!,Japan
+39,20,111,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+44,15,42,1,Terrible experience. The food was bland and tasteless.,USA
+54,5,70,2,Not worth the money. Very disappointed.,Korea
+50,2,115,3,Service was slow and the food was overcooked.,Korea
+85,40,44,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+4,42,14,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+94,20,130,2,Not worth the money. Very disappointed.,USA
+12,12,30,2,Not worth the money. Very disappointed.,USA
+27,17,122,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+83,23,24,2,Not worth the money. Very disappointed.,USA
+96,26,187,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+79,3,178,2,Not worth the money. Very disappointed.,Korea
+61,21,1,2,Not worth the money. Very disappointed.,USA
+92,23,73,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+86,39,106,5,One of the best meals I've ever had. Highly recommend!,Japan
+23,44,129,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+97,9,183,1,Terrible experience. The food was bland and tasteless.,Japan
+6,1,180,2,Not worth the money. Very disappointed.,Japan
+37,39,118,3,Service was slow and the food was overcooked.,Japan
+36,5,70,2,Not worth the money. Very disappointed.,Japan
+67,47,136,1,Terrible experience. The food was bland and tasteless.,Korea
+97,17,122,3,Service was slow and the food was overcooked.,Japan
+41,16,93,3,Service was slow and the food was overcooked.,Japan
+85,37,39,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+4,44,175,5,One of the best meals I've ever had. Highly recommend!,USA
+63,22,90,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+49,45,71,3,Service was slow and the food was overcooked.,Korea
+86,29,149,3,Service was slow and the food was overcooked.,Japan
+14,20,166,5,One of the best meals I've ever had. Highly recommend!,Korea
+94,9,122,2,Not worth the money. Very disappointed.,USA
+72,42,14,5,One of the best meals I've ever had. Highly recommend!,Korea
+52,12,95,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+24,11,134,2,Not worth the money. Very disappointed.,USA
+88,8,177,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+84,3,178,5,One of the best meals I've ever had. Highly recommend!,USA
+8,38,92,2,Not worth the money. Very disappointed.,Japan
+37,23,194,5,One of the best meals I've ever had. Highly recommend!,Japan
+21,33,79,1,Terrible experience. The food was bland and tasteless.,USA
+86,38,92,3,Service was slow and the food was overcooked.,Japan
+48,40,44,2,Not worth the money. Very disappointed.,Korea
+67,4,29,3,Service was slow and the food was overcooked.,Korea
+92,14,91,1,Terrible experience. The food was bland and tasteless.,USA
+14,49,90,2,Not worth the money. Very disappointed.,Korea
+64,3,178,3,Service was slow and the food was overcooked.,Korea
+53,38,147,3,Service was slow and the food was overcooked.,USA
+29,7,199,2,Not worth the money. Very disappointed.,Japan
+92,48,66,3,Service was slow and the food was overcooked.,USA
+19,44,175,3,Service was slow and the food was overcooked.,Korea
+32,23,194,2,Not worth the money. Very disappointed.,Korea
+99,27,183,3,Service was slow and the food was overcooked.,USA
+85,42,184,3,Service was slow and the food was overcooked.,Korea
+76,26,7,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+6,0,109,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+7,33,53,1,Terrible experience. The food was bland and tasteless.,Korea
+27,16,93,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+44,36,172,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+72,37,159,1,Terrible experience. The food was bland and tasteless.,Korea
+88,25,29,3,Service was slow and the food was overcooked.,Korea
+79,23,73,3,Service was slow and the food was overcooked.,Korea
+73,38,71,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+10,20,25,1,Terrible experience. The food was bland and tasteless.,Japan
+30,29,93,3,Service was slow and the food was overcooked.,Korea
+11,46,52,5,One of the best meals I've ever had. Highly recommend!,Japan
+94,47,43,2,Not worth the money. Very disappointed.,USA
+77,12,111,2,Not worth the money. Very disappointed.,Japan
+50,36,15,2,Not worth the money. Very disappointed.,Korea
+43,2,115,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+95,31,198,2,Not worth the money. Very disappointed.,USA
+49,34,20,2,Not worth the money. Very disappointed.,Korea
+16,18,151,5,One of the best meals I've ever had. Highly recommend!,Korea
+34,13,23,3,Service was slow and the food was overcooked.,Japan
+0,47,98,5,One of the best meals I've ever had. Highly recommend!,Japan
+28,21,26,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+50,16,93,2,Not worth the money. Very disappointed.,Korea
+63,3,178,3,Service was slow and the food was overcooked.,Korea
+3,44,11,2,Not worth the money. Very disappointed.,Japan
+86,39,199,2,Not worth the money. Very disappointed.,Japan
+27,18,139,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+15,36,15,2,Not worth the money. Very disappointed.,USA
+62,1,126,1,Terrible experience. The food was bland and tasteless.,Korea
+75,14,111,3,Service was slow and the food was overcooked.,Korea
+52,1,126,3,Service was slow and the food was overcooked.,Korea
+84,10,145,1,Terrible experience. The food was bland and tasteless.,USA
+16,44,158,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+39,22,21,2,Not worth the money. Very disappointed.,Japan
+12,9,33,2,Not worth the money. Very disappointed.,USA
+51,2,115,3,Service was slow and the food was overcooked.,USA
+57,4,29,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+95,2,115,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+36,37,74,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+78,12,103,2,Not worth the money. Very disappointed.,Japan
+75,41,129,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+60,18,2,1,Terrible experience. The food was bland and tasteless.,Korea
+78,39,118,5,One of the best meals I've ever had. Highly recommend!,Japan
+33,49,90,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+69,34,20,5,One of the best meals I've ever had. Highly recommend!,USA
+16,23,177,2,Not worth the money. Very disappointed.,Korea
+19,23,73,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+72,16,93,3,Service was slow and the food was overcooked.,Korea
+58,39,182,2,Not worth the money. Very disappointed.,Japan
+68,9,33,1,Terrible experience. The food was bland and tasteless.,Korea
+86,1,152,1,Terrible experience. The food was bland and tasteless.,Japan
+32,43,17,5,One of the best meals I've ever had. Highly recommend!,Korea
+77,22,85,5,One of the best meals I've ever had. Highly recommend!,Japan
+16,5,173,3,Service was slow and the food was overcooked.,Korea
+56,1,152,3,Service was slow and the food was overcooked.,Japan
+82,20,33,1,Terrible experience. The food was bland and tasteless.,Korea
+96,34,60,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+0,48,66,1,Terrible experience. The food was bland and tasteless.,Japan
+12,28,86,1,Terrible experience. The food was bland and tasteless.,USA
+26,6,4,3,Service was slow and the food was overcooked.,USA
+69,28,86,5,One of the best meals I've ever had. Highly recommend!,USA
+58,36,15,3,Service was slow and the food was overcooked.,Japan
+5,22,106,3,Service was slow and the food was overcooked.,USA
+96,32,81,3,Service was slow and the food was overcooked.,USA
+93,7,110,1,Terrible experience. The food was bland and tasteless.,Japan
+98,11,134,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+22,45,71,1,Terrible experience. The food was bland and tasteless.,Korea
+9,47,20,2,Not worth the money. Very disappointed.,Japan
+50,9,72,3,Service was slow and the food was overcooked.,Korea
+18,14,5,3,Service was slow and the food was overcooked.,Korea
+50,23,177,2,Not worth the money. Very disappointed.,Korea
+91,25,54,3,Service was slow and the food was overcooked.,USA
+86,46,12,3,Service was slow and the food was overcooked.,Japan
+67,41,129,3,Service was slow and the food was overcooked.,Korea
+83,38,92,2,Not worth the money. Very disappointed.,USA
+82,2,60,1,Terrible experience. The food was bland and tasteless.,Korea
+41,1,180,3,Service was slow and the food was overcooked.,Japan
+90,5,77,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+56,20,130,2,Not worth the money. Very disappointed.,Japan
+97,8,177,5,One of the best meals I've ever had. Highly recommend!,Japan
+67,9,72,2,Not worth the money. Very disappointed.,Korea
+37,35,78,1,Terrible experience. The food was bland and tasteless.,Japan
+61,2,115,2,Not worth the money. Very disappointed.,USA
+6,40,48,5,One of the best meals I've ever had. Highly recommend!,Japan
+70,23,73,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+49,21,26,5,One of the best meals I've ever had. Highly recommend!,Korea
+51,48,3,2,Not worth the money. Very disappointed.,USA
+25,13,122,5,One of the best meals I've ever had. Highly recommend!,USA
+25,41,72,2,Not worth the money. Very disappointed.,USA
+18,44,184,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+8,43,17,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+60,26,187,1,Terrible experience. The food was bland and tasteless.,Korea
+19,32,99,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+49,21,26,3,Service was slow and the food was overcooked.,Korea
+79,28,27,5,One of the best meals I've ever had. Highly recommend!,Korea
+80,18,22,5,One of the best meals I've ever had. Highly recommend!,Japan
+21,18,22,2,Not worth the money. Very disappointed.,USA
+12,5,70,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+11,44,11,1,Terrible experience. The food was bland and tasteless.,Japan
+9,18,22,1,Terrible experience. The food was bland and tasteless.,Japan
+64,12,95,1,Terrible experience. The food was bland and tasteless.,Korea
+95,25,42,3,Service was slow and the food was overcooked.,USA
+29,21,26,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+7,20,158,1,Terrible experience. The food was bland and tasteless.,Korea
+20,35,64,3,Service was slow and the food was overcooked.,USA
+21,1,180,5,One of the best meals I've ever had. Highly recommend!,USA
+17,46,129,2,Not worth the money. Very disappointed.,Korea
+65,43,67,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+47,29,31,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+43,26,7,5,One of the best meals I've ever had. Highly recommend!,USA
+8,6,110,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+66,19,1,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+53,49,90,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+25,30,52,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+84,22,85,3,Service was slow and the food was overcooked.,USA
+93,12,107,3,Service was slow and the food was overcooked.,Japan
+91,16,6,2,Not worth the money. Very disappointed.,USA
+99,3,128,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+25,13,23,5,One of the best meals I've ever had. Highly recommend!,USA
+33,19,113,1,Terrible experience. The food was bland and tasteless.,Korea
+7,12,30,2,Not worth the money. Very disappointed.,Korea
+9,2,115,1,Terrible experience. The food was bland and tasteless.,Japan
+47,25,29,1,Terrible experience. The food was bland and tasteless.,USA
+54,25,171,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+53,17,122,5,One of the best meals I've ever had. Highly recommend!,USA
+77,31,198,1,Terrible experience. The food was bland and tasteless.,Japan
+39,13,122,1,Terrible experience. The food was bland and tasteless.,Japan
+14,46,12,2,Not worth the money. Very disappointed.,Korea
+80,2,115,5,One of the best meals I've ever had. Highly recommend!,Japan
+17,0,70,5,One of the best meals I've ever had. Highly recommend!,Korea
+95,25,42,1,Terrible experience. The food was bland and tasteless.,USA
+22,23,194,5,One of the best meals I've ever had. Highly recommend!,Korea
+61,48,16,2,Not worth the money. Very disappointed.,USA
+45,34,20,2,Not worth the money. Very disappointed.,Japan
+86,13,23,2,Not worth the money. Very disappointed.,Japan
+98,2,115,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+38,12,9,1,Terrible experience. The food was bland and tasteless.,USA
+14,46,12,5,One of the best meals I've ever had. Highly recommend!,Korea
+52,49,171,2,Not worth the money. Very disappointed.,Korea
+87,13,122,1,Terrible experience. The food was bland and tasteless.,USA
+63,20,130,1,Terrible experience. The food was bland and tasteless.,Korea
+62,25,171,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+91,2,60,5,One of the best meals I've ever had. Highly recommend!,USA
+79,39,97,5,One of the best meals I've ever had. Highly recommend!,Korea
+15,3,106,2,Not worth the money. Very disappointed.,USA
+69,35,59,2,Not worth the money. Very disappointed.,USA
+65,42,106,1,Terrible experience. The food was bland and tasteless.,Korea
+12,0,97,5,One of the best meals I've ever had. Highly recommend!,USA
+46,39,97,5,One of the best meals I've ever had. Highly recommend!,Korea
+8,46,52,2,Not worth the money. Very disappointed.,Japan
+62,32,171,3,Service was slow and the food was overcooked.,Korea
+33,6,114,1,Terrible experience. The food was bland and tasteless.,Korea
+80,10,82,5,One of the best meals I've ever had. Highly recommend!,Japan
+90,26,187,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+28,13,122,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+36,21,1,3,Service was slow and the food was overcooked.,Japan
+42,15,29,2,Not worth the money. Very disappointed.,Japan
+85,45,71,2,Not worth the money. Very disappointed.,Korea
+63,11,134,2,Not worth the money. Very disappointed.,Korea
+23,48,66,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+70,45,71,2,Not worth the money. Very disappointed.,Japan
+33,9,33,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+47,23,177,3,Service was slow and the food was overcooked.,USA
+11,45,71,1,Terrible experience. The food was bland and tasteless.,Japan
+22,17,122,5,One of the best meals I've ever had. Highly recommend!,Korea
+78,21,1,3,Service was slow and the food was overcooked.,Japan
+96,8,177,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+12,16,6,3,Service was slow and the food was overcooked.,USA
+86,37,39,5,One of the best meals I've ever had. Highly recommend!,Japan
+95,39,182,1,Terrible experience. The food was bland and tasteless.,USA
+44,12,9,5,One of the best meals I've ever had. Highly recommend!,USA
+98,49,166,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+64,36,15,5,One of the best meals I've ever had. Highly recommend!,Korea
+46,5,173,3,Service was slow and the food was overcooked.,Korea
+57,20,111,2,Not worth the money. Very disappointed.,USA
+4,35,64,3,Service was slow and the food was overcooked.,USA
+76,6,114,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+4,35,139,1,Terrible experience. The food was bland and tasteless.,USA
+59,24,4,5,One of the best meals I've ever had. Highly recommend!,Japan
+95,10,145,1,Terrible experience. The food was bland and tasteless.,USA
+20,43,151,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+23,13,23,5,One of the best meals I've ever had. Highly recommend!,Korea
+17,44,175,3,Service was slow and the food was overcooked.,Korea
+20,28,86,3,Service was slow and the food was overcooked.,USA
+53,9,33,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+9,49,171,5,One of the best meals I've ever had. Highly recommend!,Japan
+23,47,155,3,Service was slow and the food was overcooked.,Korea
+84,4,29,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+88,7,163,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+59,45,71,1,Terrible experience. The food was bland and tasteless.,Japan
+56,4,94,3,Service was slow and the food was overcooked.,Japan
+22,23,194,5,One of the best meals I've ever had. Highly recommend!,Korea
+21,39,182,3,Service was slow and the food was overcooked.,USA
+67,25,54,3,Service was slow and the food was overcooked.,Korea
+33,5,77,3,Service was slow and the food was overcooked.,Korea
+69,15,173,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+27,35,97,2,Not worth the money. Very disappointed.,Japan
+94,11,45,2,Not worth the money. Very disappointed.,USA
+98,10,179,1,Terrible experience. The food was bland and tasteless.,USA
+38,2,115,3,Service was slow and the food was overcooked.,USA
+41,43,67,2,Not worth the money. Very disappointed.,Japan
+22,36,172,1,Terrible experience. The food was bland and tasteless.,Korea
+69,5,9,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+79,18,5,3,Service was slow and the food was overcooked.,Korea
+1,17,122,5,One of the best meals I've ever had. Highly recommend!,USA
+23,15,162,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+16,22,128,1,Terrible experience. The food was bland and tasteless.,Korea
+64,42,184,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+69,36,172,5,One of the best meals I've ever had. Highly recommend!,USA
+68,8,177,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+59,2,115,1,Terrible experience. The food was bland and tasteless.,Japan
+49,7,33,5,One of the best meals I've ever had. Highly recommend!,Korea
+92,37,159,5,One of the best meals I've ever had. Highly recommend!,USA
+11,3,128,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+46,11,134,5,One of the best meals I've ever had. Highly recommend!,Korea
+66,43,151,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+64,30,52,3,Service was slow and the food was overcooked.,Korea
+26,24,136,5,One of the best meals I've ever had. Highly recommend!,USA
+47,15,145,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+87,41,72,3,Service was slow and the food was overcooked.,USA
+61,13,122,5,One of the best meals I've ever had. Highly recommend!,USA
+43,12,107,3,Service was slow and the food was overcooked.,USA
+18,40,44,5,One of the best meals I've ever had. Highly recommend!,Korea
+58,6,119,1,Terrible experience. The food was bland and tasteless.,Japan
+7,11,45,1,Terrible experience. The food was bland and tasteless.,Korea
+54,36,172,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+46,49,97,2,Not worth the money. Very disappointed.,Korea
+1,3,106,1,Terrible experience. The food was bland and tasteless.,USA
+93,1,180,2,Not worth the money. Very disappointed.,Japan
+93,34,157,3,Service was slow and the food was overcooked.,Japan
+38,43,17,3,Service was slow and the food was overcooked.,USA
+44,2,115,2,Not worth the money. Very disappointed.,USA
+31,3,128,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+64,37,159,5,One of the best meals I've ever had. Highly recommend!,Korea
+37,11,45,2,Not worth the money. Very disappointed.,Japan
+76,18,22,2,Not worth the money. Very disappointed.,Korea
+10,9,183,2,Not worth the money. Very disappointed.,Japan
+9,0,70,2,Not worth the money. Very disappointed.,Japan
+58,16,93,2,Not worth the money. Very disappointed.,Japan
+89,15,168,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+54,8,177,1,Terrible experience. The food was bland and tasteless.,Korea
+19,8,177,5,One of the best meals I've ever had. Highly recommend!,Korea
+80,8,177,1,Terrible experience. The food was bland and tasteless.,Japan
+16,11,134,2,Not worth the money. Very disappointed.,Korea
+67,40,48,1,Terrible experience. The food was bland and tasteless.,Korea
+4,14,105,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+59,1,126,3,Service was slow and the food was overcooked.,Japan
+22,10,179,1,Terrible experience. The food was bland and tasteless.,Korea
+45,10,179,5,One of the best meals I've ever had. Highly recommend!,Japan
+51,7,38,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+9,31,176,3,Service was slow and the food was overcooked.,Japan
+45,5,197,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+27,19,171,2,Not worth the money. Very disappointed.,Japan
+96,38,174,3,Service was slow and the food was overcooked.,USA
+42,34,20,5,One of the best meals I've ever had. Highly recommend!,Japan
+25,7,143,3,Service was slow and the food was overcooked.,USA
+54,49,90,5,One of the best meals I've ever had. Highly recommend!,Korea
+47,48,16,2,Not worth the money. Very disappointed.,USA
+28,42,184,5,One of the best meals I've ever had. Highly recommend!,Japan
+26,33,53,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+17,18,151,1,Terrible experience. The food was bland and tasteless.,Korea
+59,6,110,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+73,30,70,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+68,17,122,3,Service was slow and the food was overcooked.,Korea
+73,39,97,2,Not worth the money. Very disappointed.,Korea
+20,13,23,1,Terrible experience. The food was bland and tasteless.,USA
+23,38,174,5,One of the best meals I've ever had. Highly recommend!,Korea
+2,35,97,3,Service was slow and the food was overcooked.,Japan
+94,16,93,2,Not worth the money. Very disappointed.,USA
+61,36,15,1,Terrible experience. The food was bland and tasteless.,USA
+1,43,67,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+65,8,177,2,Not worth the money. Very disappointed.,Korea
+41,19,152,2,Not worth the money. Very disappointed.,Japan
+33,44,184,2,Not worth the money. Very disappointed.,Korea
+41,27,59,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+19,49,97,5,One of the best meals I've ever had. Highly recommend!,Korea
+96,19,152,3,Service was slow and the food was overcooked.,USA
+67,40,44,5,One of the best meals I've ever had. Highly recommend!,Korea
+44,35,64,1,Terrible experience. The food was bland and tasteless.,USA
+74,26,187,3,Service was slow and the food was overcooked.,Korea
+41,7,33,1,Terrible experience. The food was bland and tasteless.,Japan
+46,31,198,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+4,0,174,5,One of the best meals I've ever had. Highly recommend!,USA
+88,16,6,2,Not worth the money. Very disappointed.,Korea
+48,8,177,3,Service was slow and the food was overcooked.,Korea
+36,19,9,2,Not worth the money. Very disappointed.,Japan
+33,44,103,1,Terrible experience. The food was bland and tasteless.,Korea
+72,31,198,2,Not worth the money. Very disappointed.,Korea
+69,1,126,2,Not worth the money. Very disappointed.,USA
+17,31,176,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+77,44,175,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+18,8,177,5,One of the best meals I've ever had. Highly recommend!,Korea
+77,29,58,1,Terrible experience. The food was bland and tasteless.,Japan
+39,19,113,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+16,37,159,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+59,0,97,5,One of the best meals I've ever had. Highly recommend!,Japan
+98,4,150,3,Service was slow and the food was overcooked.,USA
+92,34,157,5,One of the best meals I've ever had. Highly recommend!,USA
+41,35,97,2,Not worth the money. Very disappointed.,Japan
+80,0,59,2,Not worth the money. Very disappointed.,Japan
+71,13,23,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+64,8,177,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+52,29,31,5,One of the best meals I've ever had. Highly recommend!,Korea
+99,23,73,5,One of the best meals I've ever had. Highly recommend!,USA
+6,3,128,1,Terrible experience. The food was bland and tasteless.,Japan
+4,49,90,2,Not worth the money. Very disappointed.,USA
+23,13,23,5,One of the best meals I've ever had. Highly recommend!,Korea
+27,24,47,3,Service was slow and the food was overcooked.,Japan
+61,3,128,1,Terrible experience. The food was bland and tasteless.,USA
+16,24,69,5,One of the best meals I've ever had. Highly recommend!,Korea
+19,9,72,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+2,34,157,5,One of the best meals I've ever had. Highly recommend!,Japan
+36,6,137,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+89,41,98,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+14,12,123,2,Not worth the money. Very disappointed.,Korea
+50,3,128,2,Not worth the money. Very disappointed.,Korea
+47,49,166,5,One of the best meals I've ever had. Highly recommend!,USA
+7,42,184,5,One of the best meals I've ever had. Highly recommend!,Korea
+12,35,64,3,Service was slow and the food was overcooked.,USA
+47,13,23,1,Terrible experience. The food was bland and tasteless.,USA
+2,17,122,1,Terrible experience. The food was bland and tasteless.,Japan
+64,7,199,5,One of the best meals I've ever had. Highly recommend!,Korea
+72,31,198,2,Not worth the money. Very disappointed.,Korea
+30,26,7,3,Service was slow and the food was overcooked.,Korea
+25,41,98,1,Terrible experience. The food was bland and tasteless.,USA
+80,36,172,5,One of the best meals I've ever had. Highly recommend!,Japan
+55,22,90,2,Not worth the money. Very disappointed.,Japan
+33,6,114,2,Not worth the money. Very disappointed.,Korea
+8,11,134,2,Not worth the money. Very disappointed.,Japan
+61,24,4,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+12,2,60,2,Not worth the money. Very disappointed.,USA
+68,25,181,5,One of the best meals I've ever had. Highly recommend!,Korea
+40,3,178,3,Service was slow and the food was overcooked.,USA
+76,41,77,5,One of the best meals I've ever had. Highly recommend!,Korea
+0,35,139,2,Not worth the money. Very disappointed.,Japan
+88,14,91,3,Service was slow and the food was overcooked.,Korea
+46,31,198,1,Terrible experience. The food was bland and tasteless.,Korea
+3,28,86,1,Terrible experience. The food was bland and tasteless.,Japan
+99,9,176,5,One of the best meals I've ever had. Highly recommend!,USA
+62,20,130,3,Service was slow and the food was overcooked.,Korea
+51,15,42,5,One of the best meals I've ever had. Highly recommend!,USA
+9,46,129,3,Service was slow and the food was overcooked.,Japan
+27,18,139,3,Service was slow and the food was overcooked.,Japan
+5,28,86,5,One of the best meals I've ever had. Highly recommend!,USA
+26,17,122,3,Service was slow and the food was overcooked.,USA
+11,43,82,2,Not worth the money. Very disappointed.,Japan
+61,15,74,3,Service was slow and the food was overcooked.,USA
+51,0,70,3,Service was slow and the food was overcooked.,USA
+47,47,136,5,One of the best meals I've ever had. Highly recommend!,USA
+66,1,152,1,Terrible experience. The food was bland and tasteless.,Korea
+45,14,5,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+96,38,39,3,Service was slow and the food was overcooked.,USA
+73,27,183,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+94,0,39,3,Service was slow and the food was overcooked.,USA
+14,4,95,5,One of the best meals I've ever had. Highly recommend!,Korea
+70,41,77,5,One of the best meals I've ever had. Highly recommend!,Japan
+35,21,1,3,Service was slow and the food was overcooked.,Korea
+13,35,102,5,One of the best meals I've ever had. Highly recommend!,Japan
+77,45,71,5,One of the best meals I've ever had. Highly recommend!,Japan
+2,12,95,3,Service was slow and the food was overcooked.,Japan
+66,0,39,1,Terrible experience. The food was bland and tasteless.,Korea
+85,15,173,3,Service was slow and the food was overcooked.,Korea
+18,40,44,1,Terrible experience. The food was bland and tasteless.,Korea
+98,21,26,5,One of the best meals I've ever had. Highly recommend!,USA
+75,31,198,1,Terrible experience. The food was bland and tasteless.,Korea
+53,15,168,5,One of the best meals I've ever had. Highly recommend!,USA
+68,14,111,1,Terrible experience. The food was bland and tasteless.,Korea
+9,45,71,1,Terrible experience. The food was bland and tasteless.,Japan
+32,41,72,3,Service was slow and the food was overcooked.,Korea
+12,11,45,1,Terrible experience. The food was bland and tasteless.,USA
+98,0,149,5,One of the best meals I've ever had. Highly recommend!,USA
+50,16,93,3,Service was slow and the food was overcooked.,Korea
+31,40,44,1,Terrible experience. The food was bland and tasteless.,Japan
+74,49,97,3,Service was slow and the food was overcooked.,Korea
+23,27,183,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+34,6,47,3,Service was slow and the food was overcooked.,Japan
+82,8,177,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+69,21,26,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+39,25,104,3,Service was slow and the food was overcooked.,Japan
+53,11,134,5,One of the best meals I've ever had. Highly recommend!,USA
+43,6,114,5,One of the best meals I've ever had. Highly recommend!,USA
+61,45,71,5,One of the best meals I've ever had. Highly recommend!,USA
+98,46,52,2,Not worth the money. Very disappointed.,USA
+67,14,158,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+32,37,67,3,Service was slow and the food was overcooked.,Korea
+76,20,111,5,One of the best meals I've ever had. Highly recommend!,Korea
+55,13,23,5,One of the best meals I've ever had. Highly recommend!,Japan
+35,1,152,3,Service was slow and the food was overcooked.,Korea
+53,7,163,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+18,44,103,3,Service was slow and the food was overcooked.,Korea
+42,5,77,2,Not worth the money. Very disappointed.,Japan
+11,36,172,2,Not worth the money. Very disappointed.,Japan
+10,36,172,3,Service was slow and the food was overcooked.,Japan
+69,32,99,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+11,40,44,5,One of the best meals I've ever had. Highly recommend!,Japan
+90,5,140,2,Not worth the money. Very disappointed.,USA
+40,25,74,2,Not worth the money. Very disappointed.,USA
+24,38,92,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+2,40,83,2,Not worth the money. Very disappointed.,Japan
+2,36,15,2,Not worth the money. Very disappointed.,Japan
+83,13,23,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+27,36,172,3,Service was slow and the food was overcooked.,Japan
+22,7,139,5,One of the best meals I've ever had. Highly recommend!,Korea
+47,38,86,5,One of the best meals I've ever had. Highly recommend!,USA
+66,12,123,2,Not worth the money. Very disappointed.,Korea
+41,12,123,5,One of the best meals I've ever had. Highly recommend!,Japan
+87,39,97,3,Service was slow and the food was overcooked.,USA
+39,42,106,2,Not worth the money. Very disappointed.,Japan
+5,27,183,5,One of the best meals I've ever had. Highly recommend!,USA
+19,17,122,1,Terrible experience. The food was bland and tasteless.,Korea
+10,18,2,1,Terrible experience. The food was bland and tasteless.,Japan
+95,37,23,1,Terrible experience. The food was bland and tasteless.,USA
+26,31,176,1,Terrible experience. The food was bland and tasteless.,USA
+20,21,1,1,Terrible experience. The food was bland and tasteless.,USA
+12,1,180,2,Not worth the money. Very disappointed.,USA
+85,12,99,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+34,22,21,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+46,24,110,2,Not worth the money. Very disappointed.,Korea
+85,27,59,2,Not worth the money. Very disappointed.,Korea
+27,10,156,3,Service was slow and the food was overcooked.,Japan
+20,32,171,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+17,23,73,1,Terrible experience. The food was bland and tasteless.,Korea
+30,1,180,2,Not worth the money. Very disappointed.,Korea
+59,29,157,1,Terrible experience. The food was bland and tasteless.,Japan
+36,16,6,4,Absolutely loved it! The flavors were perfectly balanced.,Japan
+20,39,106,5,One of the best meals I've ever had. Highly recommend!,USA
+13,33,93,5,One of the best meals I've ever had. Highly recommend!,Japan
+88,37,39,2,Not worth the money. Very disappointed.,Korea
+90,21,26,3,Service was slow and the food was overcooked.,USA
+59,4,51,1,Terrible experience. The food was bland and tasteless.,Japan
+22,47,155,2,Not worth the money. Very disappointed.,Korea
+94,39,199,3,Service was slow and the food was overcooked.,USA
+28,15,145,1,Terrible experience. The food was bland and tasteless.,Japan
+46,12,128,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+29,25,29,5,One of the best meals I've ever had. Highly recommend!,Japan
+89,30,52,3,Service was slow and the food was overcooked.,USA
+83,38,5,1,Terrible experience. The food was bland and tasteless.,USA
+37,47,98,2,Not worth the money. Very disappointed.,Japan
+82,22,21,1,Terrible experience. The food was bland and tasteless.,Korea
+26,47,98,2,Not worth the money. Very disappointed.,USA
+88,11,134,5,One of the best meals I've ever had. Highly recommend!,Korea
+86,13,138,5,One of the best meals I've ever had. Highly recommend!,Japan
+92,17,122,1,Terrible experience. The food was bland and tasteless.,USA
+14,26,7,1,Terrible experience. The food was bland and tasteless.,Korea
+58,27,183,2,Not worth the money. Very disappointed.,Japan
+2,17,122,2,Not worth the money. Very disappointed.,Japan
+9,15,145,3,Service was slow and the food was overcooked.,Japan
+78,15,42,3,Service was slow and the food was overcooked.,Japan
+79,12,128,3,Service was slow and the food was overcooked.,Korea
+16,28,86,1,Terrible experience. The food was bland and tasteless.,Korea
+82,8,177,3,Service was slow and the food was overcooked.,Korea
+10,25,74,1,Terrible experience. The food was bland and tasteless.,Japan
+47,27,183,5,One of the best meals I've ever had. Highly recommend!,USA
+4,40,44,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+68,12,107,5,One of the best meals I've ever had. Highly recommend!,Korea
+63,35,97,1,Terrible experience. The food was bland and tasteless.,Korea
+13,8,177,1,Terrible experience. The food was bland and tasteless.,Japan
+49,46,52,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+25,13,122,2,Not worth the money. Very disappointed.,USA
+71,11,134,2,Not worth the money. Very disappointed.,Korea
+68,31,176,2,Not worth the money. Very disappointed.,Korea
+6,37,67,3,Service was slow and the food was overcooked.,Japan
+15,2,115,2,Not worth the money. Very disappointed.,USA
+54,15,110,3,Service was slow and the food was overcooked.,Korea
+77,19,9,3,Service was slow and the food was overcooked.,Japan
+55,31,198,2,Not worth the money. Very disappointed.,Japan
+3,22,90,2,Not worth the money. Very disappointed.,Japan
+99,16,93,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+47,15,162,4,Absolutely loved it! The flavors were perfectly balanced.,USA
+16,37,74,3,Service was slow and the food was overcooked.,Korea
+35,7,143,4,Absolutely loved it! The flavors were perfectly balanced.,Korea
+69,18,139,3,Service was slow and the food was overcooked.,USA
+79,29,157,1,Terrible experience. The food was bland and tasteless.,Korea
+92,33,84,3,Service was slow and the food was overcooked.,USA
+99,13,122,3,Service was slow and the food was overcooked.,USA
