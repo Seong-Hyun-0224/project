@@ -52,7 +52,7 @@ model = Model(inputs=[user_input, restaurant_input, food_input], outputs=output)
 model.compile(optimizer='adam', loss='mse')
 
 # 모델 학습
-model.fit([train_user_ids, train_restaurant_ids, train_food_ids], train_ratings, epochs=20, batch_size=32, validation_split=0.2)
+model.fit([train_user_ids, train_restaurant_ids, train_food_ids], train_ratings, epochs=12, batch_size=32, validation_split=0.2)
 
 # 모델 저장
 model.save('data/restaurant_recommendation_model.h5')
